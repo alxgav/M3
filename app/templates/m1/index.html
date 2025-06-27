@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="business">
+
+<head>
+  <meta charset="ISO-8859-1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+
+  <title>stoly</title>
+  <style>
+    .message-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        z-index: 1000;
+    }
+    .alert {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+</style>
+</head>
+
+<body>
+  <div class=" mx-auto px-4">
+    <div class="navbar bg-base-100">
+      <div class="flex-1 justify-center">
+        <img class="navbar-brand-logo-normal"
+        src="https://international.cp.de/typo3conf/ext/dia_site_cp/Resources/Public/Images/cp-logo.svg"
+        alt="C + P Möbelsysteme GmbH &amp; Co. KG" height="72" width="72" style="filter: invert(100%);">
+      </div>
+      <div class="flex-none">
+        <ul class="menu menu-horizontal px-1">
+          
+          <li>
+            <details>
+              <summary>PDF</summary>
+              <ul class="bg-base-100 rounded-t-none p-2">
+                <li><button onclick="generatePDF('P4Xe')" class="btn btn-accent">P4Xe</button></li>
+                <li><button onclick="generatePDF('P1')" class="btn btn-accent">P1</button></li>
+                <li><button onclick="generatePDF('P4')" class="btn btn-accent">P4</button></button></li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </div>
+    </div>
+   
+    <div class=" mx-auto">
+
+      <div role="tablist" class="tabs tabs-lifted tabs-lg justify-center">
+        <input type="radio" id="P4Xe_tab" name="my_tabs_1" role="tab" class="tab" aria-label="P4Xe" checked="checked" />
+        <div role="tabpanel" class="tab-content p-10">
+
+
+          <!-- cards -->
+        
+          <div tabindex="0" class="collapse collapse-arrow border-base-300 bg-base-200 border">
+            <div class="collapse-title text-xl font-medium">Stations</div>
+            <div class="collapse-content">
+              <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4" id="tables">
+              </div>
+            </div>
+          </div>
+          
+          <div class="divider divider-primary m-5" id="work">for work</div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4" id="P4Xe"></div>
+
+        </div>
+        <input type="radio" name="my_tabs_1" id="P1_tab" role="tab" class="tab" aria-label="P1" />
+        <div role="tabpanel" class="tab-content p-10">
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-2" id="P1"></div>
+        </div>
+
+        <input type="radio" id="P4_tab" name="my_tabs_1" role="tab" class="tab" aria-label="P4" />
+        <div role="tabpanel" class="tab-content p-10">
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2" id="P4"></div>
+        </div>
+        
+        <input type="radio" name="my_tabs_1" role="tab" class="tab" aria-label="Ustawienia" />
+       
+
+        <div role="tabpanel" class="tab-content p-10">
+          <div class="flex flex-col gap-4">
+            <div class="mb-6">
+
+              <label class="form-control w-full max-w-xs">
+                <div class="label">
+                  <span class="label-text">Regal</span>
+                </div>
+                <input type="file" class="file-input file-input-bordered file-input-primary w-full max-w-xs"
+                  id="material_file" accept=".txt" />
+              </label>
+
+            </div>
+
+            <!-- P4Xe -->
+            <div class="mb-6">
+              <label class="form-control w-full max-w-xs">
+                <div class="label">
+                  <span class="label-text">P4Xe</span>
+                </div>
+                <input type="file" class="file-input file-input-bordered file-input-primary w-full max-w-xs"
+                  id="P4Xe_file" accept=".txt" />
+              </label>
+
+
+            </div>
+
+            <!-- P1 -->
+            <div class="mb-6">
+
+              <label class="form-control w-full max-w-xs">
+                <div class="label">
+                  <span class="label-text">P1</span>
+                </div>
+                <input type="file" class="file-input file-input-bordered file-input-primary w-full max-w-xs"
+                  id="P1_file" accept=".txt" />
+              </label>
+
+            </div>
+
+            <!-- P4 -->
+            <div class="mb-6">
+
+              <label class="form-control w-full max-w-xs">
+                <div class="label">
+                  <span class="label-text">P4</span>
+                </div>
+                <input type="file" class="file-input file-input-bordered file-input-primary w-full max-w-xs"
+                  id="P4_file" accept=".txt" />
+              </label>
+
+            </div>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-2" id="P4"></div>
+        </div>
+      </div>
+    </div>
+    <button class="btn btn-primary fixed bottom-0 right-0 m-4" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7" />
+      </svg>
+    </button>
+  </div>
+
+  <script src="m1.js"></script>
+  
+</body>
+
+
+</html>
