@@ -1,14 +1,11 @@
 import re
-from uuid import uuid4
 from datetime import datetime, timezone
+
 from sqlalchemy import DateTime
-from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.orm import mapped_column, Mapped
 
+
 class TimestampMixin:
-    id: Mapped[str] = mapped_column(
-        UUID(as_uuid=False), primary_key=True, default=lambda: str(uuid4()), nullable=False
-    )
     created_at: Mapped[datetime] = mapped_column(
         DateTime, default=lambda: datetime.now(timezone.utc), nullable=False
     )
