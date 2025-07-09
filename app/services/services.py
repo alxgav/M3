@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+from app.settings import BASE_DIR
 
 # import logging
 from app.settings import logger as log
@@ -15,7 +16,7 @@ def safe_split(x):
 
 # this function return dataFrame from Lagerspiegel_full.txt
 def get_regal_data() -> pd.DataFrame:
-    df_regal = get_data("./uploads/Lagerspiegel_full.txt", sep=";")
+    df_regal = get_data("app/uploads/Lagerspiegel_full.txt", sep=";")
     exclude_patterns = "leer|empty|n/a"
     df_regal_clean = df_regal[~df_regal["Artikel"].str.contains(exclude_patterns, na=False, case=False)].copy()
     df_regal_clean[["artikel_split", "artikel_split_2"]] = df_regal_clean["Artikel"].apply(
@@ -28,7 +29,7 @@ def get_regal_data() -> pd.DataFrame:
 # this function return dataFrame from P4Xe.txt
 
 def get_job_data() -> pd.DataFrame:
-    df_work = pd.read_csv("./uploads/P4Xe.txt", sep="\t", encoding="iso-8859-1", header=None)
+    df_work = pd.read_csv("app/uploads/P4Xe.txt", sep="\t", encoding="iso-8859-1", header=None)
     m_df_clean = df_work[[1,2,4,5,10,27,21,22,23]].copy()
     m_df_clean.columns = ['artikel', 'description', 'menge', 'datum', 'note', 'time_work', 'w', 'h', 'w2']
     m_df_clean['time_work'] = m_df_clean['time_work'].str.replace(',', '.', regex=False)
@@ -43,7 +44,7 @@ def merge_data(df_regal = get_regal_data(), df_job = get_job_data()) -> pd.DataF
     merged_df = pd.merge(df_job,df_regal, on='artikel_split', how='left')
     merged_df['note'] = merged_df['note'].fillna('')
     # merged_df.sort_values(by='datum', inplace=True)
-    merged_df.to_csv('./uploads/merged_data.csv', index=False, sep=';')
+    merged_df.to_csv('app/uploads/merged_data.csv', index=False, sep=';')
     return merged_df
 
 

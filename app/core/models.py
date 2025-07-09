@@ -10,3 +10,7 @@ class Material(Base, TimestampMixin):
     name_material: Mapped[str] = Column(String, nullable=False)
     time_material: Mapped[float] = Column(Float, nullable=False)
     note_material: Mapped[str] = Column(String, nullable=True)
+
+
+
+
