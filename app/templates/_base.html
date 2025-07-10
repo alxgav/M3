@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="business">
+<head>
+    {% block head %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}My FastAPI App{% endblock %}</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+
+    <!-- Alpine.js -->
+    <script src="https://unpkg.com/alpinejs" defer></script>
+
+    <!-- HTMX -->
+    <script src="https://unpkg.com/htmx.org@1.9.5"></script>
+    {% endblock %}
+</head>
+
+<body class="bg-base-200 text-base-content min-h-screen flex flex-col">
+
+<!-- Navbar -->
+{% block navbar %}
+{% include "_navigation.html" %}
+{% endblock %}
+
+<!-- Main Content -->
+<main class="flex-grow">
+    <div class="container mx-auto px-4 py-6">
+        {% block content %}{% endblock %}
+    </div>
+</main>
+
+<!-- Footer -->
+{% block footer %}
+{% include "_footer.html" %}
+{% endblock %}
+
+<!-- JS for Footer Year -->
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const yearEl = document.getElementById("current-year");
+        if (yearEl) {
+            yearEl.textContent = new Date().getFullYear();
+        }
+    });
+</script>
+
+</body>
+</html>
+

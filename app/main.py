@@ -24,11 +24,6 @@ async def lifespan(app: FastAPI):
 app = FastAPI(lifespan=lifespan)
 app.mount("/static", StaticFiles(directory="app/static"), name="static")
 
-# @app.get("/", response_class=HTMLResponse)
-# async def index_root(request: Request):
-#     return templates.TemplateResponse(
-#         request=request, name="index.html" )
-
 
 @app.get("/", response_class=HTMLResponse)
 async def final_data(request: Request):

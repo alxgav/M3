@@ -110,7 +110,10 @@ def get_final_data(df: pd.DataFrame = merge_data()) -> list:
             "dataWork": str(dataWork),  # Ensure date is serializable
             "note": note,
             "time_work": time_work,
-            "materials": filtered_materials_list
+            "materials": filtered_materials_list,
+            "w": group['w'].iloc[0],
+            "h": group['h'].iloc[0],
+            "w2": group['w2'].iloc[0]
         })
 
     return response
