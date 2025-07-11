@@ -17,6 +17,7 @@ templates = Jinja2Templates(directory="app/templates")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    
     yield
     await engine.dispose()
 
