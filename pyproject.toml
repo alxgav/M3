@@ -20,4 +20,5 @@ dependencies = [
 dev = [
     "black>=25.1.0",
     "marimo>=0.14.10",
+    "pyarrow>=20.0.0",
 ]

@@ -1,0 +1,32 @@
+<div class="card w-full shadow-xl">
+    <div class="card-body {% if item.station %}bg-neutral{% else %}bg-base-100{% endif %}">
+        <div class="flex flex-col">
+            <div class="flex flex-row items-center gap-2">
+                <h1 class="card-title font-weight">{{ item.artikel }}</h1>
+            </div>
+
+            <span class="text-red-300 data-work">{{ item.dataWork }}</span>
+        </div>
+
+        <h4 class="description">{{ item.description }}</h4>
+
+        <span class="text-red-600 text-xl font-bold note {% if item.note and 'pilne' in item.note %}text-gray-300{% endif %}">
+                {{ item.note }}
+            </span>
+
+        <div class="flex">
+            <span class="text-yellow-600 font-bold text-xl qty">{{ item.menge }}</span>
+            <span class="text-gray-600 ml-2 p-0">szt. | </span>
+            <span class="text-gray-600 font-bold text-xl ml-2">{{ item.time_work }}</span>
+        </div>
+
+        <div class="flex flex-col text-white font-bold text-md">
+            <span class="w-full amb">Wymiar: {{ item.w }} x {{ item.h }} x {{ item.w2 }}</span>
+        </div>
+
+        <div class="divider {% if item.station %}bg-red-600 {% endif %}">regal / station</div>
+        <div>
+            {% include "cards/_materials.html" %}
+        </div>
+    </div>
+</div>

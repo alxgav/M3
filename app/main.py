@@ -6,6 +6,7 @@ from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from app.services.services import get_final_data
+from rich import print
 
 
 from app.core.db.db import engine
@@ -29,6 +30,8 @@ app.mount("/static", StaticFiles(directory="app/static"), name="static")
 @app.get("/", response_class=HTMLResponse)
 async def final_data(request: Request):
    final_data = get_final_data()
+
+   # print(final_data)
    return templates.TemplateResponse(
        request=request, name="index.html", context={"final_data": final_data}
    )
