@@ -106,7 +106,6 @@ def get_final_data(df: pd.DataFrame = merge_data()) -> list:
 
         # Extract materials
         materials = group[['Artikel', 'FachName', 'Menge', 'artikel_split_2_x', 'artikel_split_2_y']].copy()
-        print(materials.head(10))
         # materials = materials[materials['artikel_split_2_x'] == materials['artikel_split_2_y']]
 
         # materials = materials[
