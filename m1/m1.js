@@ -33,7 +33,7 @@ async function processFiles() {
         console.log(error)
     }
 
-    // document.getElementById('output').textContent = JSON.stringify(P4Xe_data, null, 2);
+    
     renderArticles(P4Xe_data, "P4Xe");
     renderReagal(material_data);
 

@@ -3,15 +3,19 @@ import os
 from dotenv import load_dotenv
 from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine, AsyncEngine, async_sessionmaker
 
-load_dotenv()
+# load_dotenv()
+#
+# DATABASE_URL = os.getenv('DATABASE_URL')
+from app.settings import config
 
-DATABASE_URL = os.getenv('DATABASE_URL')
-if not DATABASE_URL:
+# Ensure the DATABASE_URL is set in the environment
+DB = config.DATABASE_URL
+if not  DB:
     raise RuntimeError("DATABASE_URL is not set in .env file")
 
 
 
-engine: AsyncEngine = create_async_engine(DATABASE_URL, echo=True)
+engine: AsyncEngine = create_async_engine(DB, echo=True)
 AsyncSessionLocal: async_sessionmaker[AsyncSession] = async_sessionmaker(
     bind=engine,
     expire_on_commit=False,
