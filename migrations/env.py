@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from sqlalchemy.ext.asyncio import create_async_engine
 from sqlalchemy import pool
 from alembic import context
-from app.core.models import Base  # Ensure this path is correct
+from app.api.work_time.models import Base
 
 # Load environment variables from .env
 load_dotenv()
