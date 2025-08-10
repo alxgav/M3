@@ -2,7 +2,7 @@ import uuid
 
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from app.api.work_time.models import WorkTime
+from app.core.db.models import WorkTime
 from app.api.work_time.schema import WorkTimeCreate
 
 from sqlalchemy import select
@@ -19,7 +19,7 @@ class WorkTimeService:
 
         session.add(db_work_time)
         await session.commit()
-
+        await session.refresh(db_work_time)
         return db_work_time
 
     @classmethod
@@ -45,6 +45,7 @@ class WorkTimeService:
 
         session.add(work_time)
         await session.commit()
+        await session.refresh(work_time)
         return work_time
 
     @classmethod

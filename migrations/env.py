@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from sqlalchemy.ext.asyncio import create_async_engine
 from sqlalchemy import pool
 from alembic import context
-from app.api.work_time.models import Base
+from app.core.db.models import Base
 
 # Load environment variables from .env
 load_dotenv()
@@ -21,6 +21,7 @@ config.set_main_option("sqlalchemy.url", DATABASE_URL)
 
 target_metadata = Base.metadata
 
+
 def run_migrations_offline():
     """Run migrations in 'offline' mode."""
     context.configure(
@@ -32,6 +33,7 @@ def run_migrations_offline():
 
     with context.begin_transaction():
         context.run_migrations()
+
 
 async def run_migrations_online():
     """Run migrations in 'online' mode."""
@@ -54,19 +56,16 @@ async def run_migrations_online():
 
     await connectable.dispose()
 
+
 def run_async_migrations():
     """Helper to run async migrations."""
     asyncio.run(run_migrations_online())
+
 
 if context.is_offline_mode():
     run_migrations_offline()
 else:
     run_async_migrations()
-
-
-
-
-
 
 
 # # Alembic config

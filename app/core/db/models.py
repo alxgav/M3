@@ -1,4 +1,4 @@
-from sqlalchemy import Column,  Float, Date, Integer
+from sqlalchemy import Column, Float, Date, Integer
 from sqlalchemy.orm import Mapped
 
 from app.core.db.base import Base
@@ -12,19 +12,5 @@ class WorkTime(Base):
     qty_material: Mapped[int] = Column(Integer, default=0)
     time_plus: Mapped[int] = Column(Integer, nullable=False, default=0)
 
-
-
-
-    def __str__(self):
-        return f"WorkTime(date={self.date}, time_material={self.time_material}, qty_material={self.qty_material}, total_time={self.total_time})"
-
-
-
-
-
-
-
-
-
-
-
+    def __repr__(self):
+        return f"<WorkTime(date={self.date} "
