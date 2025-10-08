@@ -6,7 +6,7 @@ async function processFiles() {
     const P4_file = document.getElementById('P4_file').files[0];
     const material_file = document.getElementById('material_file').files[0];
 
-    
+
 
     const P4Xe_text = await readFile(P4Xe_file);
     // const P4Xe_text = await readFromClipboard();
@@ -33,12 +33,57 @@ async function processFiles() {
         console.log(error)
     }
 
-    
+    // document.getElementById('output').textContent = JSON.stringify(P4Xe_data, null, 2);
     renderArticles(P4Xe_data, "P4Xe");
     renderReagal(material_data);
 
 
+    function searchMaterialData(dataArray, searchTerm) {
+        const term = searchTerm.toLowerCase();
+        return dataArray.filter(entry =>
+            entry.some(field => String(field).toLowerCase().includes(term))
+        );
+    }
+    function renderResults(results) {
+        const resultsDiv = document.getElementById("results");
+
+        if (results.length === 0) {
+            resultsDiv.innerHTML = "<p class='text-error'>No matches found.</p>";
+            return;
+        }
+
+        let tableHTML = `
+    <table class="table table-zebra w-full">
+      <thead>
+        <tr>
+          <th>Artikul</th>
+          <th>FachName</th>
+          <th>Menge</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${results.map(row => `
+          <tr>
+            <td>${row[0]}</td>
+            <td>${row[1]}</td>
+            <td>${row[2]}</td>
+          </tr>
+        `).join("")}
+      </tbody>
+    </table>
+  `;
+
+        resultsDiv.innerHTML = tableHTML;
+    }
+    document.getElementById("searchInput").addEventListener("input", () => {
+        const input = document.getElementById("searchInput").value;
+        const results = searchMaterialData(material_data, input);
+        renderResults(results);
+    });
+
+
 }
+
 
 // function for render tables
 function renderReagal(articles) {
@@ -127,7 +172,7 @@ function renderArticles(articles, id) {
     let qtyAll = 0
 
     articles.forEach(article => {
-        console.log(article);
+        // console.log(article);
         const materialsHTML = article.materials
             .filter(material => material.article !== article.artikul)
             .filter(material => material.article.includes("E") == article.artikul.includes("E"))
@@ -188,7 +233,7 @@ function renderArticles(articles, id) {
 
     work.innerHTML = `<strong class="text-red-300">  ${articles.length} zlecenia  ${timeWork.toFixed(2)} godziny. ${qtyAll} szt.</strong>`
     tab.setAttribute("aria-label", `P4Xe ${String(qtyAll).replace(/\n/g, ' ')}`)
-    
+
 
     // document.getElementById(`${id}_tab`).setAttribute("aria-label", `${id} - ${articles.length}`);
 
@@ -204,7 +249,7 @@ function renderArticles(articles, id) {
                 message.classList.add('alert', 'alert-success');
                 message.setAttribute("role", "alert")
                 const messageContainer = document.createElement('div');
-                    messageContainer.classList.add('message-container');
+                messageContainer.classList.add('message-container');
                 message.innerHTML = `
                 <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -222,7 +267,7 @@ function renderArticles(articles, id) {
 
 
                 messageContainer.appendChild(message);
-                    document.body.appendChild(messageContainer);
+                document.body.appendChild(messageContainer);
 
 
                 setTimeout(() => {
@@ -256,17 +301,18 @@ async function readFromClipboard() {
         navigator.clipboard.readText().then(text => {
             // Create a TextDecoder for ISO-8859-1
             const decoder = new TextDecoder('iso-8859-1');
-            
+
             // Decode the text
             const decodedText = decoder.decode(new TextEncoder().encode(text));
-            
+
             // Resolve the Promise with the decoded text
             resolve(decodedText);
         }).catch(err => {
             // Reject the Promise if there is an error
             reject('Failed to read clipboard contents: ' + err);
         });
-    });}
+    });
+}
 
 function extractArticles(text, columns, sep) {
     return text.split('\n').map(line => {
@@ -381,7 +427,7 @@ function generatePDF(id) {
                 doc.text(artikul + "\n" + dataWork, 10, yOffset);
                 doc.setFontSize(10);
                 doc.setFont("helvetica", "normal");
-                doc.text(truncatedDescription +'\n'+ amb, 50, yOffset);
+                doc.text(truncatedDescription + '\n' + amb, 50, yOffset);
                 doc.setFontSize(12);
                 doc.setFont("helvetica", "bold"); // Set font to bold
                 doc.text(`${qty} szt.`, 100, yOffset);

@@ -5,7 +5,7 @@ from fastapi.templating import Jinja2Templates
 from app.services.services import get_final_data
 
 router = APIRouter()
-templates = Jinja2Templates(directory="app/templates")
+templates = Jinja2Templates(directory="../app/templates")
 
 @router.get("/", response_class=HTMLResponse)
 async def list_materials(request: Request):
