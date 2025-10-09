@@ -34,17 +34,14 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701480998;TW02000000500A001;Trennwand Wertfach H200 T500;75,696;48;L9000.8.1.1;520217;Legnica;Verschieberegal;8;1;1;;;STELLPLATZ;1;0;;0
 701479943;TV000020000002;Strebe 2 Banklatte Kst. B2000;1084;700;L9000.19.03.02;520575;Legnica;Verschieberegal;19;3;2;;;REGALFACH;1;0;;0
 701479944;TV00002000000;Strebe 1 Banklatte Kst. B2000 ;1530;700;L9000.2.3.5;520043;Legnica;Verschieberegal;2;3;5;;;REGALFACH;1;0;;0
-701479945;TV000015000002;Strebe 2 Banklatte Kst. B1500;1084;1000;L9000.16.03.04;520487;Legnica;Verschieberegal;16;3;4;;;REGALFACH;1;0;;0
+701479945;TV000015000002;Strebe 2 Banklatte Kst. B1500;1084;1000;L9000.19.01.02;520573;Legnica;Verschieberegal;19;1;2;;;REGALFACH;1;0;;0
 701480104;TV00001500000;Strebe 1 Banklatte Kst. B1500;1530;550;L9000.19.01.06;520589;Legnica;Verschieberegal;19;1;6;;;REGALFACH;1;0;;0
 701479947;TV000012000002;Strebe 2 Banklatte Kst. B1200;1094,84;1010;L9000.4.4.5;520108;Legnica;Verschieberegal;4;4;5;;;REGALFACH;1;0;;0
 701479948;TV00001200000;Strebe 1 Banklatte Kst. B1200;1565,19;1023;L9000.4.4.4;520104;Legnica;Verschieberegal;4;4;4;;;REGALFACH;1;0;;0
-701480778;TV00001000000A010;Strebe 1 Banklatte Kst. B1000 ;408,1;350;L9000.10.09.03;520720;Legnica;Verschieberegal;10;9;3;;;REGALFACH;1;0;;0
-701479949;TV000010000002;Strebe 2 Banklatte Kst. B1000;1092,672;1008;L9000.3.1.1;520057;Legnica;Verschieberegal;3;1;1;;;STELLPLATZ;1;0;;0
 701479950;TV00001000000;Strebe 1 Banklatte Kst. B1000 ;1539,18;656;L9000.18.01.05;520553;Legnica;Verschieberegal;18;1;5;;;REGALFACH;1;0;;0
 701465100;SW19500000400A004;Seitenwand H1950 T400 li 055;141,86;16;L9000.6.2.6;520174;Legnica;Verschieberegal;6;2;6;;;REGALFACH;1;0;;0
 701439852;SW17000000500A002E;Seitenwand H1700 T500 re verz.;74,79;15;L9000.9.3.7;520275;Legnica;Verschieberegal;9;3;7;;;REGALFACH;1;0;;0
 701449668;SW17000000500A001E;Seitenwand H1700 T500 li verz.;74,79;15;L9000.15.02.07;520466;Legnica;Verschieberegal;15;2;7;;;REGALFACH;1;0;;0
-701479965;S20004715434855A;Tür re 48310-10 ZBL gest.;133,26;7;Station 07;590007;Legnica;;;;;;;STATION_EA_007;1;0;;0
 701471866;S20004605604864A;BODEN 48056-32 HINT.BEARB;75,768;24;L9000.2.1.4;520037;Legnica;Verschieberegal;2;1;4;;;REGALFACH;1;0;;0
 701470590;S20004571784554A;RT re.CAMBIO off.Gerderobe;97,332;7;L9000.9.3.2;520255;Legnica;Verschieberegal;9;3;2;;;REGALFACH;1;0;;0
 701478402;S20004571784551A;Rückwand B900 ohne LS gest;20,622;6;L9000.05.09.01;520693;Legnica;Verschieberegal;5;9;1;;;REGALFACH;1;0;;0
@@ -60,7 +57,8 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701414283;S20003701224861A;Luftkanal RW H150B810T500;95,28;13;L9000.5.3.2;520127;Legnica;Verschieberegal;5;3;2;;;REGALFACH;1;0;;0
 701469861;S20003701224860A;Frontteil H150 B810 T500 gest;60,78;20;L9000.19.03.02;520575;Legnica;Verschieberegal;19;3;2;;;REGALFACH;1;0;;0
 701478781;S20003109091476B;Innenwandverst. H 2050 bearb.;10,445;5;L9000.1.2.2;520005;Legnica;Verschieberegal;1;2;2;;;REGALFACH;1;0;;0
-701480885;S20002998404870A;Tür re Patientenschrank ;1019,619;193;L9000.16.02.01;520474;Legnica;Verschieberegal;16;2;1;;;REGALFACH;1;0;;0
+701481790;S20002998404875A;TR St einw re bearb;176,256;192;L9000.6.1.1;520153;Legnica;Verschieberegal;6;1;1;;;STELLPLATZ;1;0;;0
+701480885;S20002998404870A;Tür re Patientenschrank ;1019,619;116;Station 603;690003;Legnica;;;;;;;STATION_EA_603;1;0;;0
 701473467;S20002998404860A;Verstärkung f. Rollen;182,28;420;L9000.20.03.01;520603;Legnica;Verschieberegal;20;3;1;;;REGALFACH;1;0;;0
 701474643;S20002998404859A;TW Patientenschr. Tür re roh;1327,632;204;L9000.04.09.02;520703;Legnica;Verschieberegal;4;9;2;;;REGALFACH;1;0;;0
 701472147;S20002998404858A;ZWB rechts Patientenschr.B250;627,66;396;L9000.6.4.2;520160;Legnica;Verschieberegal;6;4;2;;;REGALFACH;1;0;;0
@@ -68,35 +66,38 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701479230;S20002998404856A;ZWB u. Patientenschr. m.Tür re;304,32;192;L9000.10.01.01;520281;Legnica;Verschieberegal;10;1;1;;;REGALFACH;1;0;;0
 701480440;S20002998404855A;ZWB Patientenschrank m. Tür ob;405,76;256;L9000.18.03.01;520539;Legnica;Verschieberegal;3;3;1;;;REGALFACH;1;0;;0
 701473710;S20002998404855A;ZWB Patientenschrank m. Tür ob;220,315;139;L9000.5.1.1;520121;Legnica;Verschieberegal;5;1;1;;;STELLPLATZ;1;0;;0
-701475097;S20002998404854A;ST re Patientenschrank m. Tür;662,04;120;L9000.10.02.02;520286;Legnica;Verschieberegal;10;2;2;;;REGALFACH;1;0;;0
-701469763;S20002998404854A;ST re Patientenschrank m. Tür;551,7;84;L9000.18.02.03;520546;Legnica;Verschieberegal;18;2;3;;;REGALFACH;1;0;;0
-701475095;S20002998404853A;ST li Patientenschrank m. Tür ;662,04;120;L9000.9.2.3;520258;Legnica;Verschieberegal;9;2;3;;;REGALFACH;1;0;;0
-701469762;S20002998404853A;ST li Patientenschrank m. Tür ;551,7;84;L9000.18.02.03;520546;Legnica;Verschieberegal;18;2;3;;;REGALFACH;1;0;;0
+701475097;S20002998404854A;ST re Patientenschrank m. Tür;662,04;120;Station 602;690002;Legnica;;;;;;;STATION_EA_602;1;0;;0
+701469763;S20002998404854A;ST re Patientenschrank m. Tür;551,7;22;Station 602;690002;Legnica;;;;;;;STATION_EA_602;1;0;;0
+701475095;S20002998404853A;ST li Patientenschrank m. Tür ;662,04;120;Station 601;690001;Legnica;;;;;;;STATION_EA_601;1;0;;0
+701469762;S20002998404853A;ST li Patientenschrank m. Tür ;551,7;84;Station 601;690001;Legnica;;;;;;;STATION_EA_601;1;0;;0
+701481772;S20002998404852A;KT Patientenschrank m. Tür re;375,36;192;L9000.15.01.03;520449;Legnica;Verschieberegal;15;1;3;;;REGALFACH;1;0;;0
 701480890;S20002998404851A;Fußteil Patientenschrank m.Tür;387,09;198;L9000.8.2.1;520218;Legnica;Verschieberegal;8;2;1;;;STELLPLATZ;1;0;;0
 701474134;S20002807494861A-E;Rumpfteil re.GATNet VERZ gest;96,512;16;Station 615;690015;Legnica;;;;;;;STATION_EA_615;1;0;;0
 701468978;RW18501200000A001;HC 260 LA gem. DIN EN 10268;515,125;125;L9000.21.03.08;520663;Legnica;Verschieberegal;21;3;8;;;REGALFACH;1;0;;0
 701468977;RW18501200000A001;HC 260 LA gem. DIN EN 10268;482,157;117;L9000.18.03.06;520559;Legnica;Verschieberegal;18;3;6;;;REGALFACH;1;0;;0
 701476993;RW18500800000B001;RW GF4 H1850B800+Belüftung;29,512;4;L9000.14.03.04;520423;Legnica;Verschieberegal;14;3;4;;;REGALFACH;1;0;;0
-701472847;Leer31;Leerartikel 800mm;0;0;Station 03;590003;Legnica;;;;;;;STATION_EA_003;1;0;;0
 701474296;Leer;Dummyartikel für leere WT;0;0;Station 09;590009;Legnica;;;;;;;STATION_EA_009;1;0;;0
+701479903;Leer;Dummyartikel für leere WT;0;0;Station 05;590005;Legnica;;;;;;;STATION_EA_005;1;0;;0
 701479171;Leer;Dummyartikel für leere WT;0;0;Station 606;690006;Legnica;;;;;;;STATION_EA_606;1;0;;0
 701479002;Leer;Dummyartikel für leere WT;0;0;Station 613;690013;Legnica;;;;;;;STATION_EA_613;0;0;;0
-701474492;Leer;Dummyartikel für leere WT;0;0;Station 603;690003;Legnica;;;;;;;STATION_EA_603;1;0;;0
-701472508;Leer;Dummyartikel für leere WT;0;0;Station 08;590008;Legnica;;;;;;;STATION_EA_008;1;0;;0
+701478421;Leer;Dummyartikel für leere WT;0;0;Station 614;690014;Legnica;;;;;;;STATION_EA_614;0;0;;0
+701473151;Leer;Dummyartikel für leere WT;0;0;Station 614;690014;Legnica;;;;;;;STATION_EA_614;0;0;;0
 701471247;Leer;Dummyartikel für leere WT;0;0;Station 614;690014;Legnica;;;;;;;STATION_EA_614;1;0;;0
 701470682;Leer;Dummyartikel für leere WT;0;0;Station 11;590011;Legnica;;;;;;;STATION_EA_011;1;0;;0
 701470589;Leer;Dummyartikel für leere WT;0;0;L9000.11.02.02;520318;Legnica;Verschieberegal;11;2;2;;;REGALFACH;1;0;;0
 701468806;Leer;Dummyartikel für leere WT;0;0;Station 611;690011;Legnica;;;;;;;STATION_EA_611;1;0;;0
 701468346;Leer;Dummyartikel für leere WT;0;0;Station 615;690015;Legnica;;;;;;;STATION_EA_615;1;0;;0
+701467699;Leer;Dummyartikel für leere WT;0;0;Station 608;690008;Legnica;;;;;;;STATION_EA_608;1;0;;0
 701465991;Leer;Dummyartikel für leere WT;0;0;L9000.3.4.5;520076;Legnica;Verschieberegal;3;4;5;;;REGALFACH;1;0;;0
-701465235;Leer;Dummyartikel für leere WT;0;0;Station 610;690010;Legnica;;;;;;;STATION_EA_610;1;0;;0
 701459481;Leer;Dummyartikel für leere WT;0;0;Station 605;690005;Legnica;;;;;;;STATION_EA_605;0;0;;0
 701455986;Leer;Dummyartikel für leere WT;0;0;L9000.16.02.03;520482;Legnica;Verschieberegal;16;2;3;;;REGALFACH;1;0;;0
 701398652;Leer;Dummyartikel für leere WT;0;0;L9000.21.02.02;520638;Legnica;Verschieberegal;21;2;2;;;REGALFACH;1;0;;0
 701141178;Leer;Dummyartikel für leere WT;0;0;L9000.1.2.3;520008;Legnica;Verschieberegal;1;2;3;;;REGALFACH;1;0;;0
 701479815;Leer;Dummyartikel für leere WT;0;0;Station 604;690004;Legnica;;;;;;;STATION_EA_604;1;0;;0
+701472508;Leer;Dummyartikel für leere WT;0;0;Station 08;590008;Legnica;;;;;;;STATION_EA_008;1;0;;0
+701465994;Leer;Dummyartikel für leere WT;0;0;Station 06;590006;Legnica;;;;;;;STATION_EA_006;1;0;;0
 701468134;KT00001200500A009;Kopfteil B1200T500;0;92;L9000.9.4.6;520272;Legnica;Verschieberegal;9;4;6;;;REGALFACH;1;0;;0
-701481194;KT00001200500A005;KT B1200T500 (400|200|400|200);115,45;25;L9000.8.1.4;520229;Legnica;Verschieberegal;8;1;4;;;REGALFACH;1;0;;0
+701481194;KT00001200500A005;KT B1200T500 (400|200|400|200);115,45;14;Station 07;590007;Legnica;;;;;;;STATION_EA_007;1;0;;0
 701474513;KT00001200500A002E;Kopfteil 3Abteil PL1 verz.;153,8;25;L9000.1.2.1;520002;Legnica;Verschieberegal;1;2;1;;;STELLPLATZ;1;0;;0
 701461413;KT00001200500A002;KT B1200T500 (400I400I400);1243,6;400;L9000.2.3.3;520035;Legnica;Verschieberegal;2;3;3;;;REGALFACH;1;0;;0
 701365651;KT00001200500A002;KT B1200T500 (400I400I400);1243,6;240;L9000.21.03.03;520643;Legnica;Verschieberegal;21;3;3;;;REGALFACH;1;0;;0
@@ -116,7 +117,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701459479;KT00000600500A002E;Kopfteil 2Abteil PL1 verz.;17,413;5;L9000.15.01.01;520441;Legnica;Verschieberegal;15;1;1;;;REGALFACH;1;0;;0
 701444358;KT00000600500A002;KT B0600T500 (300I300);307;200;L9000.12.04.08;520376;Legnica;Verschieberegal;12;4;8;;;REGALFACH;1;0;;0
 701437113;KT00000600500A002;KT B0600T500 (300I300);307;200;L9000.2.4.7;520052;Legnica;Verschieberegal;2;4;7;;;REGALFACH;1;0;;0
-701381243;KT00000600500A002;KT B0600T500 (300I300);614;93;L9000.21.01.01;520633;Legnica;Verschieberegal;21;1;1;;;REGALFACH;1;0;;0
+701381243;KT00000600500A002;KT B0600T500 (300I300);614;93;L9000.11.09.01;520699;Legnica;Verschieberegal;11;9;1;;;REGALFACH;1;0;;0
 701460078;KT00000600500A001E;Kopfteil 1Abteil PL1 verz.;15,83;10;L9000.15.04.04;520456;Legnica;Verschieberegal;15;4;4;;;REGALFACH;1;0;;0
 701469192;KT00000600500A001;KT B0600T500 (600);741,798;482;L9000.14.01.03;520417;Legnica;Verschieberegal;14;1;3;;;REGALFACH;1;0;;0
 701465339;KT00000600500A001;KT B0600T500 (600);190,836;124;L9000.2.4.3;520036;Legnica;Verschieberegal;2;4;3;;;REGALFACH;1;0;;0
@@ -151,10 +152,10 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701476479;88ZB03400477A01;Zw-Bo,li.48310-20,Abt.350 LEG;128,832;88;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701477535;88ZB03400470A01;Zw.Bod.li.LIDL Abt.350mm,o.TÖB;551,6;400;L9000.16.01.07;520497;Legnica;Verschieberegal;1;1;7;;;REGALFACH;1;0;;0
 701447932;88ZB03200467A02;Zw.-Bod.-20,re.verz 1LR mitte ;81,24;60;L9000.10.01.01;520281;Legnica;Verschieberegal;10;1;1;;;REGALFACH;1;0;;0
-701480669;88ZB03200457A03;Zw.-Boden 8310-20 re.verk.ELO;47,12;40;L9000.16.04.02;520480;Legnica;Verschieberegal;16;4;2;;;REGALFACH;1;0;;0
+701480669;88ZB03200457A03;Zw.-Boden 8310-20 re.verk.ELO;47,12;40;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701477057;88ZB03200457A01;Zw.-Boden 8310-20 re.verk.;35,34;30;L9000.11.01.02;520317;Legnica;Verschieberegal;11;1;2;;;REGALFACH;1;0;;0
 701448791;88ZB02900467A02;Zw.-Bod.-20,li.verz 1LR mitte ;67,44;60;L9000.17.01.01;520505;Legnica;Verschieberegal;17;1;1;;;REGALFACH;1;0;;0
-701480670;88ZB02900457A03;Zw.-Boden 8310-20 li.verk.ELO;44,12;40;L9000.16.04.02;520480;Legnica;Verschieberegal;16;4;2;;;REGALFACH;1;0;;0
+701480670;88ZB02900457A03;Zw.-Boden 8310-20 li.verk.ELO;44,12;40;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701480442;88ZB02900457A01;Zw.-Boden 8310-20 li.verk.;33,09;30;L9000.15.01.02;520445;Legnica;Verschieberegal;15;1;2;;;REGALFACH;1;0;;0
 701474484;88TW20000500A02;TW Dopp. 2000mm hoch gest.;1400;200;L9000.05.09.02;520704;Legnica;Verschieberegal;5;9;2;;;REGALFACH;1;0;;0
 701469276;88TW20000500A02;TW Dopp. 2000mm hoch gest.;1274;138;L9000.5.2.3;520130;Legnica;Verschieberegal;5;2;3;;;REGALFACH;1;0;;0
@@ -162,7 +163,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701236168;88TW16600400A01;TW 8010-205,400mm tief,o.Oval;551,7;50;L9000.07.09.03;520717;Legnica;Verschieberegal;7;9;3;;;REGALFACH;1;0;;0
 701212723;88TW16600400A01;TW 8010-205,400mm tief,o.Oval;850;20;L9000.17.02.03;520514;Legnica;Verschieberegal;17;2;3;;;REGALFACH;1;0;;0
 701477915;88TW13230546A01;Trennwand 48056 zurückg. glatt;69,664;16;L9000.21.01.02;520637;Legnica;Verschieberegal;21;1;2;;;REGALFACH;1;0;;0
-701481106;88TW05000451A01;TW schwenkbar für Doppelstock;518,144;176;L9000.19.01.02;520573;Legnica;Verschieberegal;19;1;2;;;REGALFACH;1;0;;0
 701447176;88TL16010238A01;Tür li.8012-20 250 Abt, gest.;111,15;30;L9000.06.09.01;520694;Legnica;Verschieberegal;6;9;1;;;REGALFACH;1;0;;0
 701331293;88RW19901197Z01;RÜCKWAND -32 2000mm hoch;119,904;40;L9000.04.09.05;520736;Legnica;Verschieberegal;4;9;5;;;REGALFACH;1;0;;0
 701457883;88RW19901187Z01;RÜCKWAND -40 2000mm hoch;1506,162;109;L9000.17.03.01;520507;Legnica;Verschieberegal;17;3;1;;;REGALFACH;1;0;;0
@@ -225,7 +225,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701475219;614964924817A;RT re.2000mm hoch/SD100 Dopp.;973,5;150;L9000.5.2.2;520126;Legnica;Verschieberegal;5;2;2;;;REGALFACH;1;0;;0
 701410733;614617974839;RW 2090x1197  m.Verschraubl.;24,36;2;L9000.03.09.05;520735;Legnica;Verschieberegal;3;9;5;;;REGALFACH;1;0;;0
 701477103;517374854556A;Trennwand RE 4x15HE DIAL;1164;5;Station 614;690014;Legnica;;;;;;;STATION_EA_614;1;0;;0
-701478421;517374854553A;Seitenwand LI 4x15HE DIAL;86,9;2;Station 614;690014;Legnica;;;;;;;STATION_EA_614;1;0;;0
 701464154;490114;Banklatte Buche 60x25 B1200;169;169;L9000.2.3.8;520055;Legnica;Verschieberegal;2;3;8;;;REGALFACH;1;0;;0
 701464153;490114;Banklatte Buche 60x25 B1200;169;169;L9000.2.2.8;520054;Legnica;Verschieberegal;2;2;8;;;REGALFACH;1;0;;0
 701421299;490032;Verstärkungsstrebe B490;0;841;L9000.14.01.01;520409;Legnica;Verschieberegal;14;1;1;;;REGALFACH;1;0;;0
@@ -235,9 +234,8 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701476998;48KT03841187A02;Mittelt.48056-40 vorn,Abluft,B;105,028;22;L9000.18.01.01;520537;Legnica;Verschieberegal;18;1;1;;;REGALFACH;1;0;;0
 701462696;48KT03840607A02;Mittelt.48056-20 vorn,Abluft;417,68;14;L9000.5.1.3;520129;Legnica;Verschieberegal;5;1;3;;;REGALFACH;1;0;;0
 701453856;488TR19010255A02;Tür,re.48010-10,1901mm Abluft;113,868;18;L9000.4.2.4;520102;Legnica;Verschieberegal;4;2;4;;;REGALFACH;1;0;;0
-701479903;488TR16010455A01;Tür re.48010-12, Abt.500 gest.;21,6;4;Station 05;590005;Legnica;;;;;;;STATION_EA_005;1;0;;0
-701480016;488TR16010355A15;Tür 48010-12,ZBL,Digilock,ELO;135,6;24;L9000.10.03.03;520291;Legnica;Verschieberegal;10;3;3;;;REGALFACH;1;0;;0
-701455499;488TR03510255A05;Tür-105PLEXI LS300 senkr.Typ B;94,05;90;L9000.21.01.01;520633;Legnica;Verschieberegal;21;1;1;;;REGALFACH;1;0;;0
+701480016;488TR16010355A15;Tür 48010-12,ZBL,Digilock,ELO;135,6;24;Station 05;590005;Legnica;;;;;;;STATION_EA_005;1;0;;0
+701455499;488TR03510255A05;Tür-105PLEXI LS300 senkr.Typ B;94,05;90;L9000.11.09.01;520699;Legnica;Verschieberegal;11;9;1;;;REGALFACH;1;0;;0
 701476035;488781;Schienenbefestigung 24HE li;87,56;199;L9000.4.4.8;520120;Legnica;Verschieberegal;4;4;8;;;REGALFACH;1;0;;0
 701476036;488780;Schienenbefestigung 24HE re;87,12;198;L9000.4.4.8;520120;Legnica;Verschieberegal;4;4;8;;;REGALFACH;1;0;;0
 701291875;441350-11;Blendenstütze re.u.li.gelasert;31,3;862;L9000.01.09.02;520700;Legnica;Verschieberegal;1;9;2;;;REGALFACH;1;0;;0
@@ -366,11 +364,13 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701326204;213170-2;TW newEvolo zurück Aufsatzschr;34,596;12;L9000.13.02.03;520386;Legnica;Verschieberegal;13;2;3;;;REGALFACH;1;0;;0
 701381229;213120-2;TW Profil Aufsatzschr.LEG gest;109,2;465;L9000.5.3.2;520127;Legnica;Verschieberegal;5;3;2;;;REGALFACH;1;0;;0
 701326052;213110-2;TW newEvolo Aufsatzschr.LEG;32,384;16;L9000.13.01.02;520381;Legnica;Verschieberegal;13;1;2;;;REGALFACH;1;0;;0
-701397306;213040-3;RW_NEV -20 Aufsatzschr. H500;21,675;6;L9000.21.01.01;520633;Legnica;Verschieberegal;21;1;1;;;REGALFACH;1;0;;0
+701397306;213040-3;RW_NEV -20 Aufsatzschr. H500;21,675;6;L9000.11.09.01;520699;Legnica;Verschieberegal;11;9;1;;;REGALFACH;1;0;;0
 701449210;212890-11;Tür li.300mm LB NEW Evolo gest;283,65;61;L9000.13.02.02;520382;Legnica;Verschieberegal;13;2;2;;;REGALFACH;1;0;;0
 701449211;212880-11;Tür,re.300 mm,ähnl. 48010,gest;594;135;L9000.13.02.02;520382;Legnica;Verschieberegal;13;2;2;;;REGALFACH;1;0;;0
 701419740;212660-2;MITTELTEIL 49056-22 VORN gesta;31,82;9;L9000.12.01.01;520345;Legnica;Verschieberegal;12;1;1;;;REGALFACH;1;0;;0
+701481553;212420-2;Fußteilverst.-30 newEvolo gest;182;100;L9000.21.01.01;520633;Legnica;Verschieberegal;21;1;1;;;REGALFACH;1;0;;0
 701477994;212220;TAFELBLECH VERZ .F.SOCKELBLEN.;2093;115;L9000.03.09.02;520702;Legnica;Verschieberegal;3;9;2;;;REGALFACH;1;0;;0
+701400589;212220;TAFELBLECH VERZ .F.SOCKELBLEN.;1383,2;9;L9000.05.09.06;520748;Legnica;Verschieberegal;5;9;6;;;REGALFACH;1;0;;0
 701373725;212220;TAFELBLECH VERZ .F.SOCKELBLEN.;1365;1;L9000.5.2.6;520142;Legnica;Verschieberegal;5;2;6;;;REGALFACH;1;0;;0
 701341358;211800-2;FT-20 newEvolo zueinand ohneTW;190,92;39;L9000.07.09.03;520717;Legnica;Verschieberegal;7;9;3;;;REGALFACH;1;0;;0
 701472227;211760-11;Tür zueinand li. 60HEB400 Zyl.;23,4;4;L9000.20.03.02;520607;Legnica;Verschieberegal;20;3;2;;;REGALFACH;1;0;;0
@@ -385,7 +385,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701460481;211066-11;SD-Mittelt. B800 ZBLT ges.;252,72;60;L9000.18.01.03;520545;Legnica;Verschieberegal;1;1;3;;;REGALFACH;1;0;;0
 701345578;211061-11;SD-Mittelteil B400 ZBLT ges.;117,912;17;L9000.7.1.2;520189;Legnica;Verschieberegal;7;1;2;;;REGALFACH;1;0;;0
 701345668;211056-11;SD-Mittelteil B1200 ZBLT ges.;103,173;11;L9000.16.01.01;520473;Legnica;Verschieberegal;16;1;1;;;REGALFACH;1;0;;0
-701416095;211051-11;SD-Mittelt. B900 ZBLT ges.;93,6;9;L9000.7.4.3;520196;Legnica;Verschieberegal;7;4;3;;;REGALFACH;1;0;;0
+701416095;211051-11;SD-Mittelt. B900 ZBLT ges.;93,6;9;L9000.8.2.1;520218;Legnica;Verschieberegal;8;2;1;;;STELLPLATZ;1;0;;0
 701439851;210940-11;Tür re.auß.60HE/400 GAT 7100;10,18;2;L9000.9.3.7;520275;Legnica;Verschieberegal;9;3;7;;;REGALFACH;1;0;;0
 701476694;210616-11;Tür li.inn.12HE/300 Zyl.Camb.;23,92;40;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701475551;210611-11;Tür re.inn.12HE/300 Zyl.Camb.;59,8;100;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
@@ -393,7 +393,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701476692;210610-11;Tür re.auß.12HE/300 Zyl.Camb.;95,025;105;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701461609;210510-11;Tür li.60HE/400 o.SL.m.ASL st ;115,488;18;L9000.16.02.02;520478;Legnica;Verschieberegal;16;2;2;;;REGALFACH;1;0;;0
 701450620;210490-11;Tür re/li.30HE/400 Zyl.sch.Cam;71,54;20;L9000.21.03.01;520635;Legnica;Verschieberegal;21;3;1;;;REGALFACH;1;0;;0
-701479816;210470-11;Tür re/li.15HE/400 Zyl.sch.Cam;12,456;6;Station 603;690003;Legnica;;;;;;;STATION_EA_603;1;0;;0
 701477911;210390-11;Tür re/li.12HE/300 Zyl.sch.Cam;382,72;104;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701478433;210065-11;Trennwand RE 1x60HE SOM ges.;245,65;50;L9000.10.02.03;520290;Legnica;Verschieberegal;10;2;3;;;REGALFACH;1;0;;0
 701474371;210060-11;Trennwand RE 2x30HE SOM ges.;98,26;20;L9000.6.2.3;520162;Legnica;Verschieberegal;6;2;3;;;REGALFACH;1;0;;0
@@ -427,8 +426,8 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701480345;209565-2;Rückwandprofil 60HE ges.;152,412;156;L9000.05.09.03;520715;Legnica;Verschieberegal;5;9;3;;;REGALFACH;1;0;;0
 701480641;209555-2;Zwischenboden Cambio B400 ges.;106,88;64;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701475423;209551-11;Zwischenbod.Cam.ZBLT B300 ges.;66,8;50;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
-701478320;209550-11;Zwischenboden Cambio B300 ges.;668;500;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
-701480627;209540-2;Hutboden Cambio B300 gest.;66,8;50;L9000.9.1.1;520249;Legnica;Verschieberegal;9;1;1;;;STELLPLATZ;1;0;;0
+701478320;209550-11;Zwischenboden Cambio B300 ges.;668;300;L9000.10.02.01;520282;Legnica;Verschieberegal;10;2;1;;;REGALFACH;1;0;;0
+701480627;209540-2;Hutboden Cambio B300 gest.;66,8;50;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701441659;209540;Hut-Zwischenb. Cambio Elo-vz;2004,45;128;L9000.04.09.04;520725;Legnica;Verschieberegal;4;9;4;;;REGALFACH;1;0;;0
 701468061;209530-2;Kopfteil Cambio B1200/4 gest.;289,464;25;L9000.4.1.2;520093;Legnica;Verschieberegal;4;1;2;;;REGALFACH;1;0;;0
 701436371;209525-2;Kopfteil Cambio B1200/3 gest.;320,478;36;L9000.11.09.03;520721;Legnica;Verschieberegal;11;9;3;;;REGALFACH;1;0;;0
@@ -440,6 +439,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701481441;209475-2;Fußteil Cambio B800 gest.;120,03;30;L9000.19.01.01;520569;Legnica;Verschieberegal;19;1;1;;;REGALFACH;1;0;;0
 701411460;209472-11;Fußteil Cam. ZBLT B600 gest.;41,064;10;L9000.18.04.01;520540;Legnica;Verschieberegal;18;4;1;;;REGALFACH;1;0;;0
 701369318;209467-11;Fußteil Cam. ZBLT B400 ges.;75,84;26;L9000.14.01.01;520409;Legnica;Verschieberegal;14;1;1;;;REGALFACH;1;0;;0
+701481527;209465-2;Fußteil Cambio B400 gest.;158,46;60;L9000.7.4.1;520188;Legnica;Verschieberegal;7;4;1;;;STELLPLATZ;1;0;;0
 701138677;209070-2;Zw.-Boden 800 newEvolo gest;564;235;L9000.13.01.01;520377;Legnica;Verschieberegal;13;1;1;;;REGALFACH;1;0;;0
 701387955;209060-2;Zw.-Boden 600 newEvolo gest;150,696;72;L9000.13.01.02;520381;Legnica;Verschieberegal;13;1;2;;;REGALFACH;1;0;;0
 701379184;208790-2;Hutboden newEvolo 400mm Leg.;234,2;200;L9000.13.02.03;520386;Legnica;Verschieberegal;13;2;3;;;REGALFACH;1;0;;0
@@ -470,7 +470,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701158799;207140;Tür re. K-Schrank ;1669,05;110;L9000.13.04.07;520404;Legnica;Verschieberegal;13;4;7;;;REGALFACH;1;0;;0
 701466087;207120;RÜCKWAND S-Schrank -40;52,62;6;L9000.7.3.1;520187;Legnica;Verschieberegal;7;3;1;;;STELLPLATZ;1;0;;0
 701438572;207120;RÜCKWAND S-Schrank -40;1368,12;51;L9000.6.1.6;520173;Legnica;Verschieberegal;6;1;6;;;REGALFACH;1;0;;0
-701402270;207110-3;Rückwand S-Schrank -30;1324;77;L9000.7.1.3;520193;Legnica;Verschieberegal;7;1;3;;;REGALFACH;1;0;;0
+701402270;207110-3;Rückwand S-Schrank -30;1324;77;L9000.10.09.05;520742;Legnica;Verschieberegal;10;9;5;;;REGALFACH;1;0;;0
 701365588;207090-3;Rückwand S-Schrank -20;448;130;L9000.17.02.02;520510;Legnica;Verschieberegal;17;2;2;;;REGALFACH;1;0;;0
 701479116;207085-11;Trennwand S-Schrank, gestanzt;607;60;L9000.3.2.2;520062;Legnica;Verschieberegal;3;2;2;;;REGALFACH;1;0;;0
 701455663;207081-2;Rumpfteil S-Schrank li.gest.;271,5;32;L9000.17.02.03;520514;Legnica;Verschieberegal;17;2;3;;;REGALFACH;1;0;;0
@@ -505,7 +505,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701465391;204880-111;Rückwand -22 Laptopschrank;187,35;25;L9000.8.2.2;520222;Legnica;Verschieberegal;8;2;2;;;REGALFACH;1;0;;0
 701463000;204880-111;Rückwand -22 Laptopschrank;112,41;15;L9000.6.3.1;520155;Legnica;Verschieberegal;6;3;1;;;STELLPLATZ;1;0;;0
 701450653;204871-111;Rückwand -12 eBike-Schrank;36,89;10;L9000.16.02.01;520474;Legnica;Verschieberegal;16;2;1;;;REGALFACH;1;0;;0
-701481075;204685-3;Rückwand Kleingef.schr. gest.;117,74;20;L9000.9.3.2;520255;Legnica;Verschieberegal;9;3;2;;;REGALFACH;1;0;;0
 701334821;203781-111K;HR-Wanne C3000 1200x435 KOM;192,4;14;L9000.7.4.6;520208;Legnica;Verschieberegal;7;4;6;;;REGALFACH;1;0;;0
 701251302;203781-11;HR-Wanne C3000 1200x435 gest.;170,544;10;L9000.4.1.5;520105;Legnica;Verschieberegal;4;1;5;;;REGALFACH;1;0;;0
 701417667;203671-11;Tür li.Ovalschl.gest.9467 inte;173,2;40;L9000.12.04.05;520364;Legnica;Verschieberegal;12;4;5;;;REGALFACH;1;0;;0
@@ -524,7 +523,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701138835;203501-11;Rumpfteil,li.48020 Laptopschra;211,885;32;L9000.15.02.02;520446;Legnica;Verschieberegal;15;2;2;;;REGALFACH;1;0;;0
 701136452;203491-11;Rumpfteil,li.48010 Laptopschra;189,813;28;L9000.6.2.3;520162;Legnica;Verschieberegal;6;2;3;;;REGALFACH;1;0;;0
 701445671;203320-11HRC;Trennw. Box/Abt.48056 Holz ;392,5;13;L9000.1.3.1;520003;Legnica;Verschieberegal;1;3;1;;;STELLPLATZ;1;0;;0
-701476991;202081-2;Tür links 48012-20 Abluft gest;650,576;146;Station 603;690003;Legnica;;;;;;;STATION_EA_603;1;0;;0
 701480106;202080-2;Tür rechts 48010-10 Abluft ges;534,72;120;L9000.17.04.03;520516;Legnica;Verschieberegal;17;4;3;;;REGALFACH;1;0;;0
 701480105;202080-2;Tür rechts 48010-10 Abluft ges;548,088;123;L9000.17.04.03;520516;Legnica;Verschieberegal;17;4;3;;;REGALFACH;1;0;;0
 701398710;202070-2E;Boden,dg.300, re.2LR/Abt.verz.;22,61;10;L9000.08.09.02;520707;Legnica;Verschieberegal;8;9;2;;;REGALFACH;1;0;;0
@@ -595,7 +593,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701465662;195726-11E;Rumpfteil li. SD 80mm UPECO;838,8;39;L9000.3.3.3;520067;Legnica;Verschieberegal;3;3;3;;;REGALFACH;1;0;;0
 701460594;195726-11E;Rumpfteil li. SD 80mm UPECO;699;22;L9000.6.3.4;520167;Legnica;Verschieberegal;6;3;4;;;REGALFACH;1;0;;0
 701465104;195725-11E;Rumpfteil re. SD 80mm UPECO;699;20;L9000.7.3.2;520191;Legnica;Verschieberegal;7;3;2;;;REGALFACH;1;0;;0
-701479229;195430-11;SD-Seitenteil,Abluft,re.gest.;259,2;400;L9000.9.1.4;520261;Legnica;Verschieberegal;9;1;4;;;REGALFACH;1;0;;0
+701479229;195430-11;SD-Seitenteil,Abluft,re.gest.;259,2;464;L9000.9.1.4;520261;Legnica;Verschieberegal;9;1;4;;;REGALFACH;1;0;;0
 701475065;195430-11;SD-Seitenteil,Abluft,re.gest.;145,152;224;L9000.2.2.1;520026;Legnica;Verschieberegal;2;2;1;;;STELLPLATZ;1;0;;0
 701470463;195390-11;SD-Mittelteil-40 Abluftstutzen;226,18;12;L9000.8.1.2;520221;Legnica;Verschieberegal;8;1;2;;;REGALFACH;1;0;;0
 701458091;195380-11;SD-Mittelteil-32 Abluftstutzen;101,78;20;L9000.5.4.1;520124;Legnica;Verschieberegal;5;4;1;;;STELLPLATZ;1;0;;0
@@ -618,7 +616,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701394797;193490-2;Fußteil -50 Aufsatzschrank;304,48;40;L9000.13.01.03;520385;Legnica;Verschieberegal;13;1;3;;;REGALFACH;1;0;;0
 701353516;193480-2;Fußteil -42 Aufsatzschrank;162,4;18;L9000.12.02.04;520358;Legnica;Verschieberegal;12;2;4;;;REGALFACH;1;0;;0
 701454854;193470-2;Fußteil -40 Aufsatzschrank;379,08;40;L9000.8.1.2;520221;Legnica;Verschieberegal;8;1;2;;;REGALFACH;1;0;;0
-701430610;193460-2;Fußteil -32 Aufsatzschrank;252,72;30;L9000.10.01.02;520285;Legnica;Verschieberegal;10;1;2;;;REGALFACH;1;0;;0
+701430610;193460-2;Fußteil -32 Aufsatzschrank;252,72;27;Station 08;590008;Legnica;;;;;;;STATION_EA_008;1;0;;0
 701478936;193450-2;Fußteil -30 Aufsatzschrank;221,9;50;L9000.2.1.2;520029;Legnica;Verschieberegal;2;1;2;;;REGALFACH;1;0;;0
 701416332;192710-11;Trennwand,Kombi.schrank SD 200;978;150;L9000.5.3.8;520151;Legnica;Verschieberegal;5;3;8;;;REGALFACH;1;0;;0
 701237791;192710-11;Trennwand,Kombi.schrank SD 200;1304;70;L9000.06.09.05;520738;Legnica;Verschieberegal;6;9;5;;;REGALFACH;1;0;;0
@@ -637,18 +635,15 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701421315;189910-11;Rumpfteil rechts 8573 Media;104,25;25;L9000.07.09.03;520717;Legnica;Verschieberegal;7;9;3;;;REGALFACH;1;0;;0
 701426566;189890-11;Rumpfteil rechts 8470 Media;370,3;48;L9000.12.02.01;520346;Legnica;Verschieberegal;12;2;1;;;REGALFACH;1;0;;0
 701392582;189880-11;Rumpfteil rechts 8370 Media;611;63;L9000.18.02.02;520542;Legnica;Verschieberegal;18;2;2;;;REGALFACH;1;0;;0
-701479716;189630-11;Trennwand für Z-Spind Serie 48;290;50;L9000.7.4.5;520204;Legnica;Verschieberegal;7;4;5;;;REGALFACH;1;0;;0
 701477108;189630-11;Trennwand für Z-Spind Serie 48;290;50;L9000.1.2.3;520008;Legnica;Verschieberegal;1;2;3;;;REGALFACH;1;0;;0
-701465995;189621-2;Rumpfteil links,Z-Spind gest.;301,6;29;L9000.9.3.1;520251;Legnica;Verschieberegal;9;3;1;;;STELLPLATZ;1;0;;0
 701468031;189621-11;Rumpfteil li. Z-Spind Serie48;126,63;21;L9000.3.3.1;520059;Legnica;Verschieberegal;3;3;1;;;STELLPLATZ;1;0;;0
-701465994;189620-2;Rumpfteil rechts,Z-Spind gest.;301,6;29;L9000.9.3.1;520251;Legnica;Verschieberegal;9;3;1;;;STELLPLATZ;1;0;;0
+701465995;189620-2;Rumpfteil rechts,Z-Spind gest.;301,6;33;Station 06;590006;Legnica;;;;;;;STATION_EA_006;1;0;;0
 701480146;189550-2;Zwischenboden li. 400mm TW-Gr.;80,32;80;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701480145;189540-2;Zwischenboden re. 400mm TW-Gr.;146,384;112;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701282185;189050-111;Rückwand 420 Haarlem bearb.;67,71;8;L9000.11.03.02;520319;Legnica;Verschieberegal;11;3;2;;;REGALFACH;1;0;;0
 701365253;188140;Auffangwanne 470 x 452 s.verz.;195,88;10;L9000.20.01.03;520609;Legnica;Verschieberegal;20;1;3;;;REGALFACH;1;0;;0
 701468481;187910-111HE;Glashaltel.Vertikal H1950;72,2;200;L9000.04.09.03;520714;Legnica;Verschieberegal;4;9;3;;;REGALFACH;1;0;;0
 701479522;187000-11;Rumpfteil 8921 li gestanzt;447,2;29;L9000.11.02.01;520314;Legnica;Verschieberegal;11;2;1;;;REGALFACH;1;0;;0
-701474493;186050-11;Tür re.Griff oben 2046 gest;77,427;21;Station 603;690003;Legnica;;;;;;;STATION_EA_603;1;0;;0
 701266476;186050-11;Tür re.Griff oben 2046 gest;523,554;142;L9000.07.09.02;520706;Legnica;Verschieberegal;7;9;2;;;REGALFACH;1;0;;0
 701481340;186041-11;Rumpfteil li.2067 gestanzt;29,93;5;Station 606;690006;Legnica;;;;;;;STATION_EA_606;1;0;;0
 701481339;186040-11;Rumpfteil re.2067 gestanzt;29,93;5;Station 606;690006;Legnica;;;;;;;STATION_EA_606;1;0;;0
@@ -663,6 +658,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701476228;183210-2;Verstärkung.. Umweltw.geschn.;288,4;2800;L9000.10.01.03;520289;Legnica;Verschieberegal;10;1;3;;;REGALFACH;1;0;;0
 701403820;183210;Verstärkungschiene Umweltwanne;1000,824;136;L9000.9.3.8;520279;Legnica;Verschieberegal;9;3;8;;;REGALFACH;1;0;;0
 701331210;183210;Verstärkungschiene Umweltwanne;780,054;8;L9000.6.3.4;520167;Legnica;Verschieberegal;6;3;4;;;REGALFACH;1;0;;0
+701481624;181890-11;Rückwand innen 1181 gest.;140,06;20;L9000.05.09.01;520693;Legnica;Verschieberegal;5;9;1;;;REGALFACH;1;0;;0
 701343544;181371E;RT.re/li. 88010F010 [L] verz.;1324,716;70;L9000.2.2.7;520050;Legnica;Verschieberegal;2;2;7;;;REGALFACH;1;0;;0
 701478945;181371;Rumpfteil re/li. 88010F010 [L];2006,748;153;L9000.14.02.08;520438;Legnica;Verschieberegal;14;2;8;;;REGALFACH;1;0;;0
 701470335;181371;Rumpfteil re/li. 88010F010 [L];2019,864;154;L9000.4.2.7;520114;Legnica;Verschieberegal;4;2;7;;;REGALFACH;1;0;;0
@@ -682,7 +678,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701320908;181250-1;Tür 88010F020 rechts, gestanzt;861,585;213;L9000.13.02.04;520390;Legnica;Verschieberegal;13;2;4;;;REGALFACH;1;0;;0
 701475563;181140-111;Rückwand 8570-372/373 bearb.;261,56;20;L9000.03.09.06;520746;Legnica;Verschieberegal;3;9;6;;;REGALFACH;1;0;;0
 701473597;181130-111;Rückwand 8570-272/273 bearb.;278,287;31;L9000.6.3.3;520163;Legnica;Verschieberegal;6;3;3;;;REGALFACH;1;0;;0
-701480996;181071-11;Gefachbod.li.8570-272 gestanzt;126,88;104;Station 08;590008;Legnica;;;;;;;STATION_EA_008;1;0;;0
+701480996;181071-11;Gefachbod.li.8570-272 gestanzt;126,88;17;L9000.19.01.03;520577;Legnica;Verschieberegal;19;1;3;;;REGALFACH;1;0;;0
 701286581;181050-11;Kopfteil 8570-372 gestanzt;36,192;25;L9000.3.1.2;520061;Legnica;Verschieberegal;3;1;2;;;REGALFACH;1;0;;0
 701388749;181040-11;Kopfteil 8570-273 gestanzt;145,2;25;L9000.8.1.3;520225;Legnica;Verschieberegal;8;1;3;;;REGALFACH;1;0;;0
 701266033;181030-11;Kopfteil 8570-272 gestanzt;63,72;40;L9000.11.02.01;520314;Legnica;Verschieberegal;11;2;1;;;REGALFACH;1;0;;0
@@ -691,7 +687,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701480981;180985-11;Trennwand 8470-272 gest.neu;169,792;28;L9000.19.03.01;520571;Legnica;Verschieberegal;19;3;1;;;REGALFACH;1;0;;0
 701480980;180980-11;Trennwand 8570-272 gest.neu;181,92;30;L9000.19.03.01;520571;Legnica;Verschieberegal;19;3;1;;;REGALFACH;1;0;;0
 701471554;180970-11;Rumpfteil re.8570-173 gestanzt;163,5;20;L9000.06.09.03;520716;Legnica;Verschieberegal;6;9;3;;;REGALFACH;1;0;;0
-701470981;180960-11;Rumpfteil re 8570-172 gesta;647,4;85;L9000.2.2.3;520034;Legnica;Verschieberegal;2;2;3;;;REGALFACH;1;0;;0
+701470981;180960-11;Rumpfteil re 8570-172 gesta;647,4;85;Station 604;690004;Legnica;;;;;;;STATION_EA_604;1;0;;0
 701263919;180940-11;Fussteil 8570-373 gestanzt;62,544;44;L9000.11.09.03;520721;Legnica;Verschieberegal;11;9;3;;;REGALFACH;1;0;;0
 701399990;180930L;Fussteil Schulschrank 8570-372;1556,28;49;L9000.4.4.3;520100;Legnica;Verschieberegal;4;4;3;;;REGALFACH;1;0;;0
 701256661;180930-11;Fussteil 8570-372 gestanzt;375,35;36;L9000.18.01.08;520565;Legnica;Verschieberegal;18;1;8;;;REGALFACH;1;0;;0
@@ -705,6 +701,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701471099;180690-11;Fußteil 12-40 EVOLO,gestanzt;1254,2;5;Station 02;590002;Legnica;;;;;;;STATION_EA_002;1;0;;0
 701470990;180690-11;Fußteil 12-40 EVOLO,gestanzt;1254,2;162;Station 02;590002;Legnica;;;;;;;STATION_EA_002;1;0;;0
 701476624;180670-2;Fußt.-22 Evolo350mm LIDL gest.;360,6;25;L9000.6.1.2;520157;Legnica;Verschieberegal;6;1;2;;;REGALFACH;1;0;;0
+701481801;180660-11;Rumpfteil,re.8020-105,SD 200mm;49,546;7;Station 05;590005;Legnica;;;;;;;STATION_EA_005;1;0;;0
 701480976;180660-11;Rumpfteil,re.8020-105,SD 200mm;1415,6;200;L9000.18.03.04;520551;Legnica;Verschieberegal;18;4;3;;;REGALFACH;1;0;;0
 701468870;180660-11;Rumpfteil,re.8020-105,SD 200mm;1415,6;36;L9000.5.3.1;520123;Legnica;Verschieberegal;5;3;1;;;STELLPLATZ;1;0;;0
 701465749;180651-2E;RT li.Dopp, integr.Sockel verz;648,622;75;L9000.17.03.06;520527;Legnica;Verschieberegal;17;3;6;;;REGALFACH;1;0;;0
@@ -712,11 +709,10 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701476022;180651-2;RT links, integr.Sockel;982,566;153;Station 607;690007;Legnica;;;;;;;STATION_EA_607;1;0;;0
 701471693;180651-2;RT links, integr.Sockel;982,566;153;Station 607;690007;Legnica;;;;;;;STATION_EA_607;1;0;;0
 701467701;180651-2;RT links, integr.Sockel;937,612;146;L9000.8.2.1;520218;Legnica;Verschieberegal;8;2;1;;;STELLPLATZ;1;0;;0
-701467700;180651-2;RT links, integr.Sockel;937,612;84;Station 607;690007;Legnica;;;;;;;STATION_EA_607;1;0;;0
+701467700;180651-2;RT links, integr.Sockel;937,612;46;Station 607;690007;Legnica;;;;;;;STATION_EA_607;1;0;;0
 701465750;180650-2E;RT re.Dopp, integr.Sockel verz;648,622;70;L9000.17.03.06;520527;Legnica;Verschieberegal;17;3;6;;;REGALFACH;1;0;;0
 701480310;180650-2;RT rechts, integr.Sockel;988,988;154;Station 608;690008;Legnica;;;;;;;STATION_EA_608;1;0;;0
-701471694;180650-2;RT rechts, integr.Sockel;982,566;153;Station 608;690008;Legnica;;;;;;;STATION_EA_608;1;0;;0
-701467699;180650-2;RT rechts, integr.Sockel;937,612;11;Station 608;690008;Legnica;;;;;;;STATION_EA_608;1;0;;0
+701471694;180650-2;RT rechts, integr.Sockel;982,566;152;Station 608;690008;Legnica;;;;;;;STATION_EA_608;1;0;;0
 701470394;180631-11E;Rumpfteil li. Sockel SD 200mm;70,78;5;L9000.21.03.02;520639;Legnica;Verschieberegal;21;3;2;;;REGALFACH;1;0;;0
 701472872;180631-11;Rumpfteil re/li.Sockel SD200mm;707,8;100;L9000.16.02.08;520502;Legnica;Verschieberegal;6;2;8;;;REGALFACH;1;0;;0
 701384818;180621-11E;Rumpfteil li. Sockel SD 100mm;67,27;2;L9000.20.02.01;520602;Legnica;Verschieberegal;20;2;1;;;REGALFACH;1;0;;0
@@ -727,7 +723,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701468983;180251;Sockelblnd 8020-42x10 elo verz;1801,8;100;L9000.16.01.04;520485;Legnica;Verschieberegal;16;1;4;;;REGALFACH;1;0;;0
 701474606;180250-1;Sockelblende hinten -42 gest.;363,72;210;L9000.10.09.04;520731;Legnica;Verschieberegal;10;9;4;;;REGALFACH;1;0;;0
 701466799;180241;Sockelblende 8020-40x14;1542,804;50;L9000.3.2.7;520082;Legnica;Verschieberegal;3;2;7;;;REGALFACH;1;0;;0
-701464675;180231;Sockelblende 8020-32x14;1443,365;77;L9000.11.02.08;520342;Legnica;Verschieberegal;11;2;8;;;REGALFACH;1;0;;0
 701466792;180221;Sockelblende 8020-30x14;1404,7;57;L9000.11.09.04;520732;Legnica;Verschieberegal;11;9;4;;;REGALFACH;1;0;;0
 701344580;180211;Sockelblende 8020-22x14;1364,904;35;L9000.8.3.2;520223;Legnica;Verschieberegal;8;3;2;;;REGALFACH;1;0;;0
 701463623;180191;Sockelblende 8020-20x14;1425,9;117;L9000.8.2.6;520238;Legnica;Verschieberegal;8;2;6;;;REGALFACH;1;0;;0
@@ -735,7 +730,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701360922;179560;Türverstärkung 1226;503,235;595;L9000.10.09.02;520709;Legnica;Verschieberegal;10;9;2;;;REGALFACH;1;0;;0
 701405549;179550-2;Auffangwanne Sockel gest.;296;50;L9000.13.02.01;520378;Legnica;Verschieberegal;13;2;1;;;REGALFACH;1;0;;0
 701448159;179400-11;Einleger 1034 gestanzt;108,56;40;L9000.12.04.02;520352;Legnica;Verschieberegal;12;4;2;;;REGALFACH;1;0;;0
-701468062;179000-11;Fussteil 1035 gestanzt;202,23;90;Station 604;690004;Legnica;;;;;;;STATION_EA_604;1;0;;0
+701468062;179000-11;Fussteil 1035 gestanzt;202,23;90;L9000.10.09.01;520698;Legnica;Verschieberegal;10;9;1;;;REGALFACH;1;0;;0
 701426050;178900-11;Rückwand 1034 gestanzt;883,95;80;L9000.15.03.02;520447;Legnica;Verschieberegal;15;3;2;;;REGALFACH;1;0;;0
 701471453;178670-2;Rückwand 1226 gestanzt;769,296;124;L9000.20.04.06;520624;Legnica;Verschieberegal;20;4;6;;;REGALFACH;1;0;;0
 701476818;178661-2;Rumpfteil li. 1226-4 gest.;135,4;40;L9000.18.01.01;520537;Legnica;Verschieberegal;18;1;1;;;REGALFACH;1;0;;0
@@ -747,9 +742,10 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701453250;178411-2;Rumpfteil li. 131444 gest.;67,72;30;L9000.09.09.01;520697;Legnica;Verschieberegal;9;9;1;;;REGALFACH;1;0;;0
 701453249;178410-2;Rumpfteil re. 131444 gest.;67,72;30;L9000.09.09.01;520697;Legnica;Verschieberegal;9;9;1;;;REGALFACH;1;0;;0
 701463855;178370;Tür re.aussen 1160;316,7;30;L9000.11.04.04;520328;Legnica;Verschieberegal;11;4;4;;;REGALFACH;1;0;;0
+701481595;177930-11E;Tür re. 300mm LR ob+unt o. ER;51;12;L9000.5.2.3;520130;Legnica;Verschieberegal;5;2;3;;;REGALFACH;1;0;;0
 701475218;177630-11;Tür,li.48012-20,23x23 gel.gest;94,428;12;L9000.9.2.3;520258;Legnica;Verschieberegal;9;2;3;;;REGALFACH;1;0;;0
 701480191;177611-11;Rumpfteil,li.8573-201/272,gest;154;20;L9000.5.4.2;520128;Legnica;Verschieberegal;5;4;2;;;REGALFACH;1;0;;0
-701478757;177610-11;Rumpfteil.re.8573-201,gestanzt;154;19;L9000.15.04.01;520444;Legnica;Verschieberegal;15;4;1;;;REGALFACH;1;0;;0
+701478757;177610-11;Rumpfteil.re.8573-201,gestanzt;154;19;L9000.16.02.01;520474;Legnica;Verschieberegal;16;2;1;;;REGALFACH;1;0;;0
 701371731;177570-111;Rückwand 8573-201,bearb.;99,36;13;L9000.11.09.02;520710;Legnica;Verschieberegal;11;9;2;;;REGALFACH;1;0;;0
 701481021;177560-111;Rückwand 8573-301,bearb.;135,109;19;L9000.05.09.01;520693;Legnica;Verschieberegal;5;9;1;;;REGALFACH;1;0;;0
 701452529;177560-111;Rückwand 8573-301,bearb.;227,552;3;L9000.22.01.01;520665;Legnica;Verschieberegal;22;1;1;;;REGALFACH;1;0;;0
@@ -770,7 +766,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701453004;176952;Tür re.aussen 1170;1680;200;L9000.9.2.5;520266;Legnica;Verschieberegal;9;2;5;;;REGALFACH;1;0;;0
 701423927;176952;Tür re.aussen 1170;1680;100;L9000.06.09.03;520716;Legnica;Verschieberegal;6;9;3;;;REGALFACH;1;0;;0
 701462458;176941;Kopfteil innen 1170;1098,1;50;L9000.10.03.06;520303;Legnica;Verschieberegal;10;3;6;;;REGALFACH;1;0;;0
-701478395;176940-11;Kopfteil innen 1170 gestan.Neu;274,5;74;L9000.3.1.2;520061;Legnica;Verschieberegal;3;1;2;;;REGALFACH;1;0;;0
+701478395;176940-11;Kopfteil innen 1170 gestan.Neu;274,5;74;Station 11;590011;Legnica;;;;;;;STATION_EA_011;1;0;;0
 701463591;176930-11;Rückwand aussen gestanzt 1170;1965,24;10;L9000.11.09.06;520754;Legnica;Verschieberegal;11;9;6;;;REGALFACH;1;0;;0
 701480595;176920-11;Fussteil aussen gestanzt 1170;691,2;100;L9000.9.1.1;520249;Legnica;Verschieberegal;9;1;1;;;STELLPLATZ;1;0;;0
 701478943;176920;Fussteil aussen 1170;1506,816;118;L9000.8.4.8;520248;Legnica;Verschieberegal;8;4;8;;;REGALFACH;1;0;;0
@@ -790,15 +786,14 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701473795;176220-2;Einleg.133144 Sendz.Verz gest.;993,432;183;L9000.19.04.03;520580;Legnica;Verschieberegal;19;4;3;;;REGALFACH;1;0;;0
 701480439;176190-2;Auffangwanne 920 x 451 gest.;973,464;188;L9000.17.04.04;520520;Legnica;Verschieberegal;17;4;4;;;REGALFACH;1;0;;0
 701480438;176190-2;Auffangwanne 920 x 451 gest.;973,464;188;L9000.17.01.04;520517;Legnica;Verschieberegal;17;1;4;;;REGALFACH;1;0;;0
-701472608;176190-2;Auffangwanne 920 x 451 gest.;1004,532;140;Station 610;690010;Legnica;;;;;;;STATION_EA_610;1;0;;0
 701472607;176190-2;Auffangwanne 920 x 451 gest.;1004,532;70;L9000.16.04.03;520484;Legnica;Verschieberegal;16;3;4;;;REGALFACH;1;0;;0
 701457880;176127;Tür re.f.1200mm 8930;1500,179;180;L9000.11.03.05;520331;Legnica;Verschieberegal;11;3;5;;;REGALFACH;1;0;;0
 701471103;176121-11;Tür li.für 8930-00 gestanzt;768,848;90;L9000.21.02.04;520646;Legnica;Verschieberegal;21;2;4;;;REGALFACH;1;0;;0
 701448345;176121;Tür li.f.1200mm 8930-00;1511,184;131;L9000.4.3.3;520099;Legnica;Verschieberegal;4;3;3;;;REGALFACH;1;0;;0
-701481299;175690-2;Tür,rechts 48010-125,gestanzt;384;35;Station 602;690002;Legnica;;;;;;;STATION_EA_602;1;0;;0
 701481374;175690-11;Tür,rechts 48010-125,gestanzt;1035;900;L9000.16.01.05;520489;Legnica;Verschieberegal;16;5;1;;;REGALFACH;1;0;;0
 701481290;175690-11;Tür,rechts 48010-125,gestanzt;345;300;L9000.7.1.2;520189;Legnica;Verschieberegal;7;1;2;;;REGALFACH;1;0;;0
 701473260;175680-11;Tür,rechts 48010-105,gestanzt;178,2;198;L9000.08.09.02;520707;Legnica;Verschieberegal;8;9;2;;;REGALFACH;1;0;;0
+701481551;175640-2;Tür,rechts 48010-103,gestanzt;178,8;120;L9000.19.04.02;520576;Legnica;Verschieberegal;19;4;2;;;REGALFACH;1;0;;0
 701470927;174500-2;Verbindungsteil gestanzt;74,772;16;L9000.12.01.03;520353;Legnica;Verschieberegal;12;1;3;;;REGALFACH;1;0;;0
 701455915;174400-1;Tür 83 400mm gestanzt;856,8;336;L9000.5.3.2;520127;Legnica;Verschieberegal;5;3;2;;;REGALFACH;1;0;;0
 701464006;174400;Tür 83 400mm;1744,542;171;L9000.3.2.4;520070;Legnica;Verschieberegal;3;2;4;;;REGALFACH;1;0;;0
@@ -831,7 +826,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701477009;170131-2;Rumpfteil li. gestanzt;510,6;100;L9000.17.02.02;520510;Legnica;Verschieberegal;17;2;2;;;REGALFACH;1;0;;0
 701477008;170130-2;Rumpfteil re. gestanzt;510,6;100;L9000.18.02.02;520542;Legnica;Verschieberegal;18;2;2;;;REGALFACH;1;0;;0
 701464012;170130;Rumpfteil re. und li. 133113;2011,764;97;L9000.18.02.07;520562;Legnica;Verschieberegal;18;2;7;;;REGALFACH;1;0;;0
-701478471;170121-2;Fussteil hinten gest.;332,2;200;L9000.17.03.04;520519;Legnica;Verschieberegal;27;3;4;;;REGALFACH;1;0;;0
+701478471;170121-2;Fussteil hinten gest.;332,2;200;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701452023;170121;Fussteil hinten 133013;1262,74;20;L9000.19.03.02;520575;Legnica;Verschieberegal;19;3;2;;;REGALFACH;1;0;;0
 701409404;170120;Fussteil vorne 133013;1617,45;100;L9000.7.3.1;520187;Legnica;Verschieberegal;7;3;1;;;STELLPLATZ;1;0;;0
 701479597;170110-2;Kopfteil 133413-20 gest.;390,4;200;L9000.17.03.04;520519;Legnica;Verschieberegal;27;3;4;;;REGALFACH;1;0;;0
@@ -847,7 +842,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701467056;170011-2;Fussteil hinten 130144 gest.;491,2;50;L9000.3.1.3;520065;Legnica;Verschieberegal;3;1;3;;;REGALFACH;1;0;;0
 701412756;170011-2;Fussteil hinten 130144 gest.;982,4;160;L9000.10.04.07;520308;Legnica;Verschieberegal;10;4;7;;;REGALFACH;1;0;;0
 701455155;170010-2;Fussteil vorne 130144 gest.;330,174;306;L9000.5.4.2;520128;Legnica;Verschieberegal;5;4;2;;;REGALFACH;1;0;;0
-701481013;170010;Fussteil vorne 130144;1519,8;100;L9000.19.02.05;520586;Legnica;Verschieberegal;19;2;5;;;REGALFACH;1;0;;0
 701456721;170010;Fussteil vorne 130144;1838,958;50;L9000.15.02.05;520458;Legnica;Verschieberegal;15;2;5;;;REGALFACH;1;0;;0
 701467170;169981-2;Kopfteil 130144  m.Loch gest.;778,56;153;L9000.9.4.2;520256;Legnica;Verschieberegal;9;4;2;;;REGALFACH;1;0;;0
 701314154;169980-2;Kopfteil 130944 gestanzt;532,016;53;L9000.3.1.4;520069;Legnica;Verschieberegal;3;1;4;;;REGALFACH;1;0;;0
@@ -861,8 +855,8 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701473129;169042-11;TW,48/8010-205,o.Oval.ver.LEG;1164;200;L9000.4.3.7;520115;Legnica;Verschieberegal;4;3;7;;;REGALFACH;1;0;;0
 701466140;169042-11;TW,48/8010-205,o.Oval.ver.LEG;1367,7;47;L9000.16.02.03;520482;Legnica;Verschieberegal;16;2;3;;;REGALFACH;1;0;;0
 701472148;169040-11E;Trennw.48/8010-205 bearb.gest.;303,5;50;L9000.6.3.2;520159;Legnica;Verschieberegal;6;3;2;;;REGALFACH;1;0;;0
-701474456;169040-11;Trennwand,48/8010-205,gest.;1164;113;Station 612;690012;Legnica;;;;;;;STATION_EA_612;1;0;;0
-701469528;169030-2E;RT 8010-105 rechts, gest.verz.;301,6;20;L9000.9.1.5;520265;Legnica;Verschieberegal;9;1;5;;;REGALFACH;1;0;;0
+701474456;169040-11;Trennwand,48/8010-205,gest.;1164;86;Station 612;690012;Legnica;;;;;;;STATION_EA_612;1;0;;0
+701469528;169030-2E;RT 8010-105 rechts, gest.verz.;301,6;7;L9000.7.2.2;520190;Legnica;Verschieberegal;7;2;2;;;REGALFACH;1;0;;0
 701481380;169030-2;Rumpfteil Doppelst.re.gest.[L;1007,344;167;L9000.8.2.7;520242;Legnica;Verschieberegal;8;2;7;;;REGALFACH;1;0;;0
 701480179;169030-2;Rumpfteil Doppelst.re.gest.[L;1007,344;167;L9000.18.03.01;520539;Legnica;Verschieberegal;3;3;1;;;REGALFACH;1;0;;0
 701480002;169030-2;Rumpfteil Doppelst.re.gest.[L;1007,344;167;L9000.4.3.2;520095;Legnica;Verschieberegal;4;3;2;;;REGALFACH;1;0;;0
@@ -915,7 +909,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701470376;166660-11;Trennwand,-105,SD 200 mm,gest.;469,44;40;L9000.8.2.3;520226;Legnica;Verschieberegal;8;2;3;;;REGALFACH;1;0;;0
 701470370;166660-11;Trennwand,-105,SD 200 mm,gest.;515,08;79;L9000.1.2.4;520011;Legnica;Verschieberegal;1;2;4;;;REGALFACH;1;0;;0
 701477590;166650-2;Rumpfteil,re.-105,SD 200 mm L;1330;200;L9000.7.2.4;520198;Legnica;Verschieberegal;7;2;4;;;REGALFACH;1;0;;0
-701471567;166650-2;Rumpfteil,re.-105,SD 200 mm L;0;84;L9000.06.09.01;520694;Legnica;Verschieberegal;6;9;1;;;REGALFACH;1;0;;0
+701471567;166650-2;Rumpfteil,re.-105,SD 200 mm L;0;84;L9000.21.02.01;520634;Legnica;Verschieberegal;21;2;1;;;REGALFACH;1;0;;0
 701366779;166650-11E;Rumpfteil,re.-105,SD 200 mm,vz;1330;30;L9000.1.2.3;520008;Legnica;Verschieberegal;1;2;3;;;REGALFACH;1;0;;0
 701438366;166191-2;Sockel 20, 350 mm, ver GTH;727,5;200;L9000.7.1.1;520185;Legnica;Verschieberegal;7;1;1;;;STELLPLATZ;1;0;;0
 701478224;166170;ZUSCHNITT 0.75X 1690 X 0707 MM;21,105;3;L9000.14.04.02;520416;Legnica;Verschieberegal;14;4;2;;;REGALFACH;1;0;;0
@@ -967,7 +961,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701479236;164131-2;Seitent.li. 24HE gestanzt neu;754,65;109;L9000.11.01.01;520313;Legnica;Verschieberegal;11;1;1;;;REGALFACH;1;0;;0
 701479233;164130-2;Seitent.re. 24HE gestanzt neu;754,65;109;L9000.11.01.01;520313;Legnica;Verschieberegal;11;1;1;;;REGALFACH;1;0;;0
 701463602;164122-2;Kopft. Serie 124 neu gest.;366,36;120;L9000.18.01.02;520541;Legnica;Verschieberegal;18;1;2;;;REGALFACH;1;0;;0
-701480369;164122-2;Kopft. Serie 124 neu gest.;12,212;4;Station 610;690010;Legnica;;;;;;;STATION_EA_610;1;0;;0
 701454585;164120;Kopft. Serie 124 neu;916,9;75;L9000.17.03.05;520523;Legnica;Verschieberegal;17;3;5;;;REGALFACH;1;0;;0
 701273045;164112-2;Kopft. Serie 127 neu gest.;441,12;61;L9000.5.4.3;520132;Legnica;Verschieberegal;5;4;3;;;REGALFACH;1;0;;0
 701138276;164112-2;Kopft. Serie 127 neu gest.;617,568;12;L9000.16.01.02;520477;Legnica;Verschieberegal;16;1;2;;;REGALFACH;1;0;;0
@@ -984,6 +977,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701423964;163230-11HRC;SEITENTEIL 48056 RECHTS laser;667,2;200;L9000.1.3.1;520003;Legnica;Verschieberegal;1;3;1;;;STELLPLATZ;1;0;;0
 701481346;163230-11HEC;TW Aufbew.-Box 48056 ;608,8;200;L9000.01.09.04;520722;Legnica;Verschieberegal;1;9;4;;;REGALFACH;1;0;;0
 701479942;162890-2;Tür re.300mm glatt EVOLO gest;132,45;25;L9000.14.02.01;520410;Legnica;Verschieberegal;14;2;1;;;REGALFACH;1;0;;0
+701481546;162640-2;BODEN RE.8056-22,GESTANZT;338,5;100;L9000.11.09.01;520699;Legnica;Verschieberegal;11;9;1;;;REGALFACH;1;0;;0
 701461875;162640-2;BODEN RE.8056-22,GESTANZT;338,5;100;L9000.4.2.2;520094;Legnica;Verschieberegal;4;2;2;;;REGALFACH;1;0;;0
 701464676;162620E;Trennwand Dhg.48056-20 verz.;1306,05;150;L9000.15.01.05;520457;Legnica;Verschieberegal;15;1;5;;;REGALFACH;1;0;;0
 701459314;162620E;Trennwand Dhg.48056-20 verz.;261,21;20;L9000.19.04.07;520596;Legnica;Verschieberegal;19;4;7;;;REGALFACH;1;0;;0
@@ -1000,7 +994,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701474096;162532;Mittelteil,hint Aufb.-Box 1590;1066,681;77;L9000.18.04.06;520560;Legnica;Verschieberegal;18;4;6;;;REGALFACH;1;0;;0
 701474095;162532;Mittelteil,hint Aufb.-Box 1590;1066,681;77;L9000.20.01.08;520629;Legnica;Verschieberegal;20;1;8;;;REGALFACH;1;0;;0
 701477544;162521-3;Mittelteil 48056-40,unten bear;511,83;94;L9000.9.4.7;520276;Legnica;Verschieberegal;9;4;7;;;REGALFACH;1;0;;0
-701474642;162521-3;Mittelteil 48056-40,unten bear;544,5;100;L9000.12.01.08;520373;Legnica;Verschieberegal;12;1;8;;;REGALFACH;1;0;;0
 701457143;162521-3;Mittelteil 48056-40,unten bear;544,5;162;L9000.19.04.04;520584;Legnica;Verschieberegal;19;4;4;;;REGALFACH;1;0;;0
 701477993;162521;Mittelteil,hint Aufb.-Box 1190;1644,39;151;L9000.17.04.01;520508;Legnica;Verschieberegal;17;4;1;;;REGALFACH;1;0;;0
 701477545;162520-2;MITTELTEIL 48056-40 HINT.gesta;1014,636;52;L9000.16.04.01;520476;Legnica;Verschieberegal;16;4;1;;;REGALFACH;1;0;;0
@@ -1091,6 +1084,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701474385;157081;Fussteil hinten bearb. (3201);619,92;80;L9000.6.1.7;520177;Legnica;Verschieberegal;6;1;7;;;REGALFACH;1;0;;0
 701474384;157081;Fussteil hinten bearb. (3201);671,58;195;L9000.3.4.2;520064;Legnica;Verschieberegal;3;4;2;;;REGALFACH;1;0;;0
 701466062;157071-2;Fussteil hinten (3212) gest.;824,059;199;L9000.3.1.3;520065;Legnica;Verschieberegal;3;1;3;;;REGALFACH;1;0;;0
+701481830;157070-2;Fussteil vorne (3212) gest.;106,4;112;L9000.16.01.03;520481;Legnica;Verschieberegal;16;1;3;;;REGALFACH;1;0;;0
 701476085;157051-2;Innentrennwand li.(3201) gest.;473,025;75;L9000.20.03.04;520615;Legnica;Verschieberegal;20;3;4;;;REGALFACH;1;0;;0
 701476080;157050-2;Innentrennwand re.(3201) gest.;473,025;75;L9000.20.03.04;520615;Legnica;Verschieberegal;20;3;4;;;REGALFACH;1;0;;0
 701475063;157030-2;Kopfteil (3203) gestanzt;613,62;76;L9000.16.04.01;520476;Legnica;Verschieberegal;16;4;1;;;REGALFACH;1;0;;0
@@ -1108,7 +1102,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701448447;156241-2;Tür,re.400 mm,48010,li.Ang.ge;282,5;50;L9000.6.2.3;520162;Legnica;Verschieberegal;6;2;3;;;REGALFACH;1;0;;0
 701257646;156240-11;Tür,re.400 mm Serie 48010,gest;1080;114;L9000.21.02.05;520650;Legnica;Verschieberegal;21;2;5;;;REGALFACH;1;0;;0
 701288662;156231-2E;Tür,re.48010-10,li.ang. verz;26,97;2;L9000.10.03.01;520283;Legnica;Verschieberegal;10;3;1;;;REGALFACH;1;0;;0
-701460563;156230E;TÜR EVOLO 48010-10 verzinkt;2038,5;60;L9000.10.04.02;520288;Legnica;Verschieberegal;10;4;2;;;REGALFACH;1;0;;0
+701460563;156230E;TÜR EVOLO 48010-10 verzinkt;2038,5;60;L9000.14.04.07;520436;Legnica;Verschieberegal;14;4;7;;;REGALFACH;1;0;;0
 701465769;156230;Tür 300 mm Evolo;1926,72;144;L9000.16.01.08;520501;Legnica;Verschieberegal;5;1;8;;;REGALFACH;1;0;;0
 701464010;156230;Tür 300 mm Evolo;1926,72;100;L9000.17.04.07;520532;Legnica;Verschieberegal;17;4;7;;;REGALFACH;1;0;;0
 701461969;156061L;Einleger 4713-80 sendz.verz.;1663,725;65;L9000.22.03.08;520688;Legnica;Verschieberegal;22;3;8;;;REGALFACH;1;0;;0
@@ -1150,6 +1144,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701479980;152010-11;Tür re.für breiten Griff gesta;408,9;35;L9000.19.02.01;520570;Legnica;Verschieberegal;19;3;1;;;REGALFACH;1;0;;0
 701465890;151971-2;Fussteil hinten 1220 gestanzt;285;100;L9000.16.04.01;520476;Legnica;Verschieberegal;16;4;1;;;REGALFACH;1;0;;0
 701459621;151971;Fussteil hinten 1220;2017,623;150;L9000.22.03.06;520682;Legnica;Verschieberegal;22;3;6;;;REGALFACH;1;0;;0
+701481834;151970-2;Fussteil vorne 1220 gestanzt;75,66;60;L9000.16.01.03;520481;Legnica;Verschieberegal;16;1;3;;;REGALFACH;1;0;;0
 701409808;151961-2;Rückwand 1220 gest.Legnica;896,32;100;L9000.1.3.5;520015;Legnica;Verschieberegal;1;3;5;;;REGALFACH;1;0;;0
 701406579;151951-2;Rumpfteil li.1220 gestanzt;845,691;92;L9000.21.02.02;520638;Legnica;Verschieberegal;21;2;2;;;REGALFACH;1;0;;0
 701406580;151950-2;Rumpfteil re.1220 gestanzt;845,691;93;L9000.21.03.03;520643;Legnica;Verschieberegal;21;3;3;;;REGALFACH;1;0;;0
@@ -1162,8 +1157,8 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701478934;149230-2;BODEN RE.8012AF,GESTANZT;678,3;300;L9000.11.04.01;520316;Legnica;Verschieberegal;11;4;1;;;REGALFACH;1;0;;0
 701469773;148210-2;Fussteil 8070-22, gestanzt;200,05;50;L9000.17.04.02;520512;Legnica;Verschieberegal;17;4;2;;;REGALFACH;1;0;;0
 701458351;148160-2;Fussteil 8070-20, gestanzt;221,9;49;L9000.1.1.1;520001;Legnica;Verschieberegal;1;1;1;;;STELLPLATZ;1;0;;0
-701480377;148150-2;Fussteil 8070-10, gestanzt;228,42;180;L9000.20.01.01;520601;Legnica;Verschieberegal;20;1;1;;;REGALFACH;1;0;;0
-701479661;148150-2;Fussteil 8070-10, gestanzt;40,608;32;L9000.8.2.1;520218;Legnica;Verschieberegal;8;2;1;;;STELLPLATZ;1;0;;0
+701480377;148150-2;Fussteil 8070-10, gestanzt;228,42;180;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
+701479661;148150-2;Fussteil 8070-10, gestanzt;40,608;32;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701402693;148142-2;Gefachbod.re. gest.Tür.li.Ang;12,144;12;L9000.9.1.1;520249;Legnica;Verschieberegal;9;1;1;;;STELLPLATZ;1;0;;0
 701477534;148120-2;Trennwand 8070 gest.;655,8;50;L9000.12.03.02;520351;Legnica;Verschieberegal;12;3;2;;;REGALFACH;1;0;;0
 701470473;148110-2;Kopfteil 8070-22, gestanzt;196,62;40;L9000.05.09.02;520704;Legnica;Verschieberegal;5;9;2;;;REGALFACH;1;0;;0
@@ -1175,7 +1170,6 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701451675;148021;Rückwand 8070/12-40;988;45;L9000.06.09.04;520727;Legnica;Verschieberegal;6;9;4;;;REGALFACH;1;0;;0
 701451674;148021;Rückwand 8070/12-40;988;30;L9000.02.09.06;520745;Legnica;Verschieberegal;2;9;6;;;REGALFACH;1;0;;0
 701480671;148010-2;Rückwand 80700-10 gestanzt;329,76;120;L9000.08.09.03;520718;Legnica;Verschieberegal;8;9;3;;;REGALFACH;1;0;;0
-701480636;148010-2;Rückwand 80700-10 gestanzt;329,76;120;Station 610;690010;Legnica;;;;;;;STATION_EA_610;1;0;;0
 701466859;148010;Rückwand;2011,536;70;L9000.16.03.05;520491;Legnica;Verschieberegal;16;3;5;;;REGALFACH;1;0;;0
 701449584;147040-11;Fussteil 8930 verst., gestanzt;637;60;L9000.3.1.2;520061;Legnica;Verschieberegal;3;1;2;;;REGALFACH;1;0;;0
 701140368;146540-11;TRENNWAND ZURGES. SD GESTANZT;600;100;L9000.5.4.5;520140;Legnica;Verschieberegal;5;4;5;;;REGALFACH;1;0;;0
@@ -1186,10 +1180,11 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701471323;146070;Tur 8010-123 ;1602,666;162;L9000.11.02.07;520338;Legnica;Verschieberegal;11;2;7;;;REGALFACH;1;0;;0
 701469306;146070;Tur 8010-123 ;1187,16;70;L9000.16.02.06;520494;Legnica;Verschieberegal;16;2;6;;;REGALFACH;1;0;;0
 701431118;146060;Tür 8010-123 ;1928,292;107;L9000.16.02.07;520498;Legnica;Verschieberegal;2;2;7;;;REGALFACH;1;0;;0
-701480697;146050-11E;TÜR RE.-104/1X4 GLATT;68,22;60;L9000.21.03.02;520639;Legnica;Verschieberegal;21;3;2;;;REGALFACH;1;0;;0
+701480697;146050-11E;TÜR RE.-104/1X4 GLATT;68,22;60;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
 701407440;146040-2;Tür 8010-103 glatt gest.;152,76;120;L9000.6.1.1;520153;Legnica;Verschieberegal;6;1;1;;;STELLPLATZ;1;0;;0
 701470934;142842-2;FT-32 Evolo 3Rieg li.m. Anschl;126,36;20;L9000.2.1.4;520037;Legnica;Verschieberegal;2;1;4;;;REGALFACH;1;0;;0
-701479463;142840-2E;Fussteil -32 gest. EVOLO verz.;126,36;20;L9000.16.03.01;520475;Legnica;Verschieberegal;16;3;1;;;REGALFACH;1;0;;0
+701481835;142840-2E;Fussteil -32 gest. EVOLO verz.;50,544;8;Station 08;590008;Legnica;;;;;;;STATION_EA_008;1;0;;0
+701479463;142840-2E;Fussteil -32 gest. EVOLO verz.;126,36;12;L9000.16.03.01;520475;Legnica;Verschieberegal;16;3;1;;;REGALFACH;1;0;;0
 701406183;142840-11E;FUSSTEIL -32 EVOLO GESTANZT;111,144;44;L9000.4.1.7;520113;Legnica;Verschieberegal;4;1;7;;;REGALFACH;1;0;;0
 701470991;142840-11;FUSSTEIL -32 EVOLO GESTANZT;1280,93;165;Station 04;590004;Legnica;;;;;;;STATION_EA_004;1;0;;0
 701473310;142830-11;FUSSTEIL -22 evolo GESTANZT;361,6;4;Station 01;590001;Legnica;;;;;;;STATION_EA_001;1;0;;0
@@ -1197,6 +1192,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701481433;142820-2E;FT 48010-12 EVOLO gest.verz;63,18;20;L9000.20.01.02;520605;Legnica;Verschieberegal;20;1;2;;;REGALFACH;1;0;;0
 701477621;142810-11;FUSSTEIL -50 EVOLO GESTANZT;761,2;100;L9000.05.09.01;520693;Legnica;Verschieberegal;5;9;1;;;REGALFACH;1;0;;0
 701475561;140220-2E;FUSSTEIL -40 EVOLO verz.gest;132,678;11;L9000.11.04.04;520328;Legnica;Verschieberegal;11;4;4;;;REGALFACH;1;0;;0
+701472847;140220-11;FUSSTEIL -40 EVOLO;0;8;Station 03;590003;Legnica;;;;;;;STATION_EA_003;1;0;;0
 701448155;140210-2E;FUSSTEIL -30 EVOLO verz.gest;146,454;45;L9000.04.09.02;520703;Legnica;Verschieberegal;4;9;2;;;REGALFACH;1;0;;0
 701476696;140210-11;FUSSTEIL -30 EVOLO GESTANZT;1027,17;144;L9000.7.4.7;520212;Legnica;Verschieberegal;7;4;7;;;REGALFACH;1;0;;0
 701471091;140210-11;FUSSTEIL -30 EVOLO GESTANZT;1027,17;202;L9000.17.03.03;520515;Legnica;Verschieberegal;17;3;3;;;REGALFACH;1;0;;0
@@ -1249,16 +1245,15 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701470327;137510;Fussteil -10;1489,767;219;L9000.10.01.04;520293;Legnica;Verschieberegal;10;1;4;;;REGALFACH;1;0;;0
 701302706;137490-2E;Kopfteil -42 gest. elo.verz.;327,96;21;L9000.16.02.02;520478;Legnica;Verschieberegal;16;2;2;;;REGALFACH;1;0;;0
 701468442;137490-11;KOPFTEIL -42 GESTANZT;539;48;L9000.21.01.07;520657;Legnica;Verschieberegal;21;1;7;;;REGALFACH;1;0;;0
-701464679;137481E;Kopfteil 32 verz.;1033,9;64;L9000.21.04.05;520652;Legnica;Verschieberegal;21;4;5;;;REGALFACH;1;0;;0
-701471740;137481;Kopfteil 8020-32 Legnica;43,35;10;L9000.21.02.03;520642;Legnica;Verschieberegal;21;2;3;;;REGALFACH;1;0;;0
-701466789;137481;Kopfteil 8020-32 Legnica;880,005;203;L9000.7.4.3;520196;Legnica;Verschieberegal;7;4;3;;;REGALFACH;1;0;;0
+701464679;137481E;Kopfteil 32 verz.;1033,9;10;L9000.17.04.02;520512;Legnica;Verschieberegal;17;4;2;;;REGALFACH;1;0;;0
+701466789;137481;Kopfteil 8020-32 Legnica;880,005;203;L9000.20.01.01;520601;Legnica;Verschieberegal;20;1;1;;;REGALFACH;1;0;;0
+701481600;137480-2E;Kopfteil -32 gest. elo.verz.;103,38;20;L9000.17.01.03;520513;Legnica;Verschieberegal;17;1;3;;;REGALFACH;1;0;;0
 701479300;137480-2E;Kopfteil -32 gest. elo.verz.;82,704;16;L9000.9.1.3;520257;Legnica;Verschieberegal;9;1;3;;;REGALFACH;1;0;;0
 701474839;137480-2E;Kopfteil -32 gest. elo.verz.;103,38;20;L9000.4.2.1;520090;Legnica;Verschieberegal;4;2;1;;;STELLPLATZ;1;0;;0
 701469279;137480-11;KOPFTEIL -32 GESTANZT;830;100;L9000.4.1.2;520093;Legnica;Verschieberegal;4;1;2;;;REGALFACH;1;0;;0
 701464002;137472;Kopfteil -22, -42;1976,931;171;L9000.6.1.8;520181;Legnica;Verschieberegal;6;1;8;;;REGALFACH;1;0;;0
 701419522;137472;Kopfteil -22, -42;1976,931;50;L9000.11.01.05;520329;Legnica;Verschieberegal;11;1;5;;;REGALFACH;1;0;;0
 701438584;137471E;Kopfteil 22 verz.;582,8;100;L9000.5.3.6;520143;Legnica;Verschieberegal;5;3;6;;;REGALFACH;1;0;;0
-701473151;137470-11;KOPFTEIL -22 GESTANZT;396;100;L9000.17.01.02;520509;Legnica;Verschieberegal;17;1;2;;;REGALFACH;1;0;;0
 701474236;137460-2;Kopfteil 8010-12, gest.;197,4;100;L9000.3.4.3;520068;Legnica;Verschieberegal;3;4;3;;;REGALFACH;1;0;;0
 701274431;137451;Kopfteil 8010-50;991,965;195;L9000.8.4.7;520244;Legnica;Verschieberegal;8;4;7;;;REGALFACH;1;0;;0
 701254640;137451;Kopfteil 8010-50;1409,099;47;L9000.5.2.3;520130;Legnica;Verschieberegal;5;2;3;;;REGALFACH;1;0;;0
@@ -1280,13 +1275,15 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701481002;137370E;Trennwand 8010 elo.verz;361,92;30;L9000.2.3.5;520043;Legnica;Verschieberegal;2;3;5;;;REGALFACH;1;0;;0
 701460562;137370E;Trennwand 8010 elo.verz;2448,992;50;L9000.10.04.08;520312;Legnica;Verschieberegal;10;4;8;;;REGALFACH;1;0;;0
 701463754;137370-2E;Trenwand gest 8010,verzin.LEG;600,7;20;L9000.12.02.03;520354;Legnica;Verschieberegal;12;2;3;;;REGALFACH;1;0;;0
+701481829;137370-11;TRENNWAND GESTANZT;1012,68;174;L9000.15.03.02;520447;Legnica;Verschieberegal;15;3;2;;;REGALFACH;1;0;;0
 701479793;137370-11;TRENNWAND GESTANZT;861,36;148;L9000.18.03.02;520543;Legnica;Verschieberegal;18;3;2;;;REGALFACH;1;0;;0
 701475089;137370-11;TRENNWAND GESTANZT;1006,86;400;Station 614;690014;Legnica;;;;;;;STATION_EA_614;1;0;;0
+701480966;137370;Trennwand Spinde;2002,648;173;L9000.20.04.05;520620;Legnica;Verschieberegal;20;4;5;;;REGALFACH;1;0;;0
 701447250;137363E;Rumpfteil, re./li. 600mm verz;1536;36;L9000.22.01.07;520683;Legnica;Verschieberegal;22;1;7;;;REGALFACH;1;0;;0
 701468982;137362E;RT 8090 re.und li. elo.verz;1996,8;130;L9000.11.09.06;520754;Legnica;Verschieberegal;11;9;6;;;REGALFACH;1;0;;0
 701470568;137361E;RT 8010 re.und li. elo.verz;1809,6;150;L9000.3.3.7;520083;Legnica;Verschieberegal;3;3;7;;;REGALFACH;1;0;;0
 701462899;137361E;RT 8010 re.und li. elo.verz;1206,4;50;L9000.18.01.07;520561;Legnica;Verschieberegal;18;1;7;;;REGALFACH;1;0;;0
-701463026;137361-2E;RT 8010 links, elo.verz.gest.;313,664;49;L9000.7.2.2;520190;Legnica;Verschieberegal;7;2;2;;;REGALFACH;1;0;;0
+701463026;137361-2E;RT 8010 links, elo.verz.gest.;313,664;21;L9000.7.2.2;520190;Legnica;Verschieberegal;7;2;2;;;REGALFACH;1;0;;0
 701481379;137361-2;Rumpfteil 8010 links, gestanzt;1007,344;167;L9000.8.3.7;520243;Legnica;Verschieberegal;8;3;7;;;REGALFACH;1;0;;0
 701480180;137361-2;Rumpfteil 8010 links, gestanzt;1007,344;167;L9000.18.03.01;520539;Legnica;Verschieberegal;3;3;1;;;REGALFACH;1;0;;0
 701480000;137361-2;Rumpfteil 8010 links, gestanzt;1007,344;167;L9000.3.2.1;520058;Legnica;Verschieberegal;3;2;1;;;STELLPLATZ;1;0;;0
@@ -1303,7 +1300,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701479335;136880-11;SD-Mittelteil 8504-50 gestanzt;311,85;50;L9000.5.2.4;520134;Legnica;Verschieberegal;5;2;4;;;REGALFACH;1;0;;0
 701413564;136880-11;SD-Mittelteil 8504-50 gestanzt;311,85;35;L9000.4.4.1;520092;Legnica;Verschieberegal;4;4;1;;;STELLPLATZ;1;0;;0
 701419397;136870-11;SD-Mittelteil 8504-42 gestanzt;129,02;12;L9000.5.2.3;520130;Legnica;Verschieberegal;5;2;3;;;REGALFACH;1;0;;0
-701481067;136860-11;SD-Mittelteil 8504-40 gestanzt;1030,608;204;L9000.5.1.5;520137;Legnica;Verschieberegal;5;1;5;;;REGALFACH;1;0;;0
+701481067;136860-11;SD-Mittelteil 8504-40 gestanzt;1030,608;130;L9000.16.04.02;520480;Legnica;Verschieberegal;16;4;2;;;REGALFACH;1;0;;0
 701475363;136860-11;SD-Mittelteil 8504-40 gestanzt;757,8;60;L9000.7.1.1;520185;Legnica;Verschieberegal;7;1;1;;;STELLPLATZ;1;0;;0
 701475215;136860-11;SD-Mittelteil 8504-40 gestanzt;252,6;23;L9000.10.04.02;520288;Legnica;Verschieberegal;10;4;2;;;REGALFACH;1;0;;0
 701474089;136851E;SD Mittelteil -32,-40 verzinkt;1596,504;50;L9000.20.01.05;520617;Legnica;Verschieberegal;20;1;5;;;REGALFACH;1;0;;0
@@ -1315,7 +1312,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701471510;136830-11;SD-Mittelteil 8504-22 gestanzt;174,55;30;L9000.16.01.03;520481;Legnica;Verschieberegal;16;1;3;;;REGALFACH;1;0;;0
 701466788;136821E;SD Mittelteil -20,-30 verzinkt;1688;130;L9000.7.2.3;520194;Legnica;Verschieberegal;7;2;3;;;REGALFACH;1;0;;0
 701438976;136821E;SD Mittelteil -20,-30 verzinkt;1688;8;L9000.18.02.05;520554;Legnica;Verschieberegal;18;2;5;;;REGALFACH;1;0;;0
-701478589;136820-11;SD-Mittelteil 8504-20 gestanzt;160,56;60;L9000.12.01.01;520345;Legnica;Verschieberegal;12;1;1;;;REGALFACH;1;0;;0
+701478589;136820-11;SD-Mittelteil 8504-20 gestanzt;160,56;30;L9000.16.01.01;520473;Legnica;Verschieberegal;16;1;1;;;REGALFACH;1;0;;0
 701468903;136820-11;SD-Mittelteil 8504-20 gestanzt;160,56;65;L9000.8.3.1;520219;Legnica;Verschieberegal;8;3;1;;;STELLPLATZ;1;0;;0
 701481383;136810-11;SD-Mittelteil 8504-12 gestanzt;41,7;20;L9000.18.01.02;520541;Legnica;Verschieberegal;18;1;2;;;REGALFACH;1;0;;0
 701140863;136790-11;SD-Mittelteil 8504-10 gestanzt;195,796;34;L9000.12.04.02;520352;Legnica;Verschieberegal;12;4;2;;;REGALFACH;1;0;;0
@@ -1333,14 +1330,12 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701476612;129061;Zwischenboden 8310 li.;2008,188;182;L9000.7.2.8;520214;Legnica;Verschieberegal;7;2;8;;;REGALFACH;1;0;;0
 701476609;129060;Zwischenboden 8310 re.;1897,063;161;L9000.7.3.6;520207;Legnica;Verschieberegal;7;3;6;;;REGALFACH;1;0;;0
 701477608;128190-11;KOPFTEIL 8170-401 TÜRÖFF.GESTA;280,65;50;L9000.9.3.3;520259;Legnica;Verschieberegal;9;3;3;;;REGALFACH;1;0;;0
-701473137;128180-11;KOPFTEIL 8170-301 TÜRÖFF.GESTA;236,04;30;WE_TB20;520902;Legnica;Verschieberegal;2;2;2;;;STELLPLATZ_P1;1;0;;0
+701473137;128180-11;KOPFTEIL 8170-301 TÜRÖFF.GESTA;236,04;30;L9000.21.03.01;520635;Legnica;Verschieberegal;21;3;1;;;REGALFACH;1;0;;0
 701442006;128180-11;KOPFTEIL 8170-301 TÜRÖFF.GESTA;236,04;40;L9000.19.04.04;520584;Legnica;Verschieberegal;19;4;4;;;REGALFACH;1;0;;0
-701480972;128170-11;KOPFTEIL 8170-201 TÜRÖFF.gesta;94,62;30;L9000.19.04.02;520576;Legnica;Verschieberegal;19;4;2;;;REGALFACH;1;0;;0
 701461251;127620-2;Tür 8470-02 gestanzt;103,6;80;L9000.4.1.1;520089;Legnica;Verschieberegal;4;1;1;;;STELLPLATZ;1;0;;0
 701442764;127620;Tür 8470/8570-02;1523,214;85;L9000.16.02.04;520486;Legnica;Verschieberegal;16;4;2;;;REGALFACH;1;0;;0
 701471560;127521-11;RUMPFTEIL LI.8270-203/303gesta;216,57;30;L9000.18.03.04;520551;Legnica;Verschieberegal;18;4;3;;;REGALFACH;1;0;;0
 701266136;127521-11;RUMPFTEIL LI.8270-203/303gesta;72,19;8;L9000.22.01.03;520671;Legnica;Verschieberegal;22;1;3;;;REGALFACH;1;0;;0
-701428154;127510-111;RÜCKWAND 8270-302/303 BEARB.;660,996;22;L9000.22.02.01;520666;Legnica;Verschieberegal;22;2;1;;;REGALFACH;1;0;;0
 701480384;127490-111;RÜCKWAND 8270-202/203 BEARB.;361,974;23;L9000.22.03.03;520673;Legnica;Verschieberegal;22;3;3;;;REGALFACH;1;0;;0
 701460950;127480-11;FUSSTEIL 8270-302/303 gestanzt;56,792;62;L9000.18.02.01;520538;Legnica;Verschieberegal;18;2;1;;;REGALFACH;1;0;;0
 701140937;127480;FUSSTEIL 8270-302/303;1887,68;136;L9000.13.04.08;520408;Legnica;Verschieberegal;13;4;8;;;REGALFACH;1;0;;0
@@ -1352,7 +1347,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701474068;12450001;Tür-u. Zwischenwandverstärkung;964,44;684;L9000.02.09.03;520712;Legnica;Verschieberegal;2;9;3;;;REGALFACH;1;0;;0
 701474067;12450001;Tür-u. Zwischenwandverstärkung;964,44;684;L9000.3.2.2;520062;Legnica;Verschieberegal;3;2;2;;;REGALFACH;1;0;;0
 701457874;12450001;Tür-u. Zwischenwandverstärkung;2007,84;200;L9000.12.03.04;520359;Legnica;Verschieberegal;12;3;4;;;REGALFACH;1;0;;0
-701468425;123041;Rückwand innen;1510,604;64;L9000.5.3.7;520147;Legnica;Verschieberegal;5;3;7;;;REGALFACH;1;0;;0
+701481618;123040-2;RW innen 1170 gestanzt LEG;589,504;64;L9000.9.3.1;520251;Legnica;Verschieberegal;9;3;1;;;STELLPLATZ;1;0;;0
 701472726;122340-111;RÜCKWAND RS20 BEARBEITET;147,39;4;L9000.4.2.5;520106;Legnica;Verschieberegal;4;2;5;;;REGALFACH;1;0;;0
 701480717;122330-11;FUSSTEIL RS20 GESTANZT;117,98;20;L9000.10.04.02;520288;Legnica;Verschieberegal;10;4;2;;;REGALFACH;1;0;;0
 701454266;122320-11;KOPFTEIL RS20 GESTANZT;234,9;12;L9000.4.1.4;520101;Legnica;Verschieberegal;4;1;4;;;REGALFACH;1;0;;0
@@ -1408,11 +1403,12 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701442940;116034-11;Einleger 2141 m.Aufkant. gest.;141,56;20;L9000.1.1.3;520007;Legnica;Verschieberegal;1;1;3;;;REGALFACH;1;0;;0
 701473294;115140-111E;BLECHHAKEN BEARB. VERZ.;200,232;2472;L9000.1.3.1;520003;Legnica;Verschieberegal;1;3;1;;;STELLPLATZ;1;0;;0
 701141776;114915L;Einleger Sendzim.verz.8934;887,4;27;L9000.21.04.04;520648;Legnica;Verschieberegal;21;4;4;;;REGALFACH;1;0;;0
-701477681;114860-11;Rückwand gestanzt;1690,56;120;Station 610;690010;Legnica;;;;;;;STATION_EA_610;1;0;;0
+701477681;114860-11;Rückwand gestanzt;1690,56;90;Station 610;690010;Legnica;;;;;;;STATION_EA_610;1;0;;0
 701476709;114855-11;Fussteil 8934 verstärkt,gesta.;545;50;L9000.17.01.07;520529;Legnica;Verschieberegal;17;1;7;;;REGALFACH;1;0;;0
 701474093;114855;Fussteil 8934;1972,9;130;L9000.15.04.07;520468;Legnica;Verschieberegal;15;4;7;;;REGALFACH;1;0;;0
-701475245;114840-11;Fussteil verstärkt, gestanzt;547,792;44;L9000.14.04.03;520420;Legnica;Verschieberegal;14;4;3;;;REGALFACH;1;0;;0
-701481008;114825;Kopfteil 8934;1008,27;153;L9000.3.1.1;520057;Legnica;Verschieberegal;3;1;1;;;STELLPLATZ;1;0;;0
+701475245;114840-11;Fussteil verstärkt, gestanzt;547,792;24;L9000.14.04.03;520420;Legnica;Verschieberegal;14;4;3;;;REGALFACH;1;0;;0
+701481560;114825-11;Kopfteil 8934 gestanzt;395,4;60;L9000.15.04.01;520444;Legnica;Verschieberegal;15;4;1;;;REGALFACH;1;0;;0
+701481008;114825;Kopfteil 8934;1008,27;90;L9000.15.04.01;520444;Legnica;Verschieberegal;15;4;1;;;REGALFACH;1;0;;0
 701476608;114825;Kopfteil 8934;1041,22;158;L9000.20.01.07;520625;Legnica;Verschieberegal;20;1;7;;;REGALFACH;1;0;;0
 701292718;114810-11;Kopfteil 8931 gestanzt;990;81;L9000.9.4.4;520264;Legnica;Verschieberegal;9;4;4;;;REGALFACH;1;0;;0
 701274199;114810-11;Kopfteil 8931 gestanzt;425,7;80;L9000.14.01.07;520433;Legnica;Verschieberegal;14;1;7;;;REGALFACH;1;0;;0
@@ -1472,6 +1468,7 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701478424;104301E;Tür re. 8010 elo-verz;1375,32;120;L9000.03.09.03;520713;Legnica;Verschieberegal;3;9;3;;;REGALFACH;1;0;;0
 701351868;104301;Tür re. 8010;1936,909;45;L9000.15.01.05;520457;Legnica;Verschieberegal;15;1;5;;;REGALFACH;1;0;;0
 701418898;104300-11E;TÜR RE. GEST.  - VERZINKT -;475,365;84;L9000.9.2.1;520250;Legnica;Verschieberegal;9;2;1;;;STELLPLATZ;1;0;;0
+701481805;104300-11;TÜR RE 300 MM LS,ER ODER GLATT;742;200;L9000.9.3.1;520251;Legnica;Verschieberegal;9;3;1;;;STELLPLATZ;1;0;;0
 701480995;104300-11;TÜR RE 300 MM LS,ER ODER GLATT;742;200;L9000.7.2.1;520186;Legnica;Verschieberegal;7;2;1;;;STELLPLATZ;1;0;;0
 701480994;104300-11;TÜR RE 300 MM LS,ER ODER GLATT;742;200;L9000.7.2.1;520186;Legnica;Verschieberegal;7;2;1;;;STELLPLATZ;1;0;;0
 701479176;104300-11;TÜR RE 300 MM LS,ER ODER GLATT;742;200;L9000.19.04.05;520588;Legnica;Verschieberegal;19;4;5;;;REGALFACH;1;0;;0
@@ -1483,12 +1480,10 @@ ID;Artikel;Artikelbezeichnung;Materialgewicht;Menge;FachName;FACH_BARCODE;Ort;Ba
 701417867;102570-111;RÜCKWAND BEARBEITET;535,092;31;L9000.22.01.01;520665;Legnica;Verschieberegal;22;1;1;;;REGALFACH;1;0;;0
 701464217;102470-111;RÜCKWAND BEARBEITET;52,41;10;L9000.8.2.2;520222;Legnica;Verschieberegal;8;2;2;;;REGALFACH;1;0;;0
 701463001;102450-11;RUMPFT. RE. GESTANZT 8170-8670;1240;89;L9000.6.3.5;520171;Legnica;Verschieberegal;6;3;5;;;REGALFACH;1;0;;0
-701465746;100700-11;Kopfteil gestanzt;714,44;212;L9000.18.01.01;520537;Legnica;Verschieberegal;18;1;1;;;REGALFACH;1;0;;0
 701481014;100400;Rumpfteil re.u.li.;2011,464;234;L9000.20.03.07;520627;Legnica;Verschieberegal;20;3;7;;;REGALFACH;1;0;;0
 701457872;100300;RUMPFTEIL RE.U.LI.;1601,176;233;L9000.6.3.7;520179;Legnica;Verschieberegal;6;3;7;;;REGALFACH;1;0;;0
 701471557;100200-11;Rückwand gestanzt;1965,24;23;Station 609;690009;Legnica;;;;;;;STATION_EA_609;1;0;;0
 701383757;100200;Rückwand 1040/1050;873,44;34;L9000.14.03.07;520435;Legnica;Verschieberegal;14;3;7;;;REGALFACH;1;0;;0
-701413059;01770024;Blechtafel,verz. (0.75 mm);1519,76;12;L9000.05.09.06;520748;Legnica;Verschieberegal;5;9;6;;;REGALFACH;1;0;;0
 701413386;01710026;TAFELBLECH VERZ. O.VERW.;1782,75;40;L9000.22.01.05;520677;Legnica;Verschieberegal;22;1;5;;;REGALFACH;1;0;;0
 701413385;01710026;TAFELBLECH VERZ. O.VERW.;1782,75;75;L9000.22.02.05;520678;Legnica;Verschieberegal;22;2;5;;;REGALFACH;1;0;;0
 701479964;01710024;TAFELBLECH VERZ. O.VERW.;1570;100;L9000.16.03.06;520495;Legnica;Verschieberegal;16;3;6;;;REGALFACH;1;0;;0

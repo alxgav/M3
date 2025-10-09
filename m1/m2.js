@@ -1,4 +1,6 @@
 loadTableData();
+const table = document.getElementById('dataTable');
+let row = table.rows.length;
 document.getElementById('addButton').addEventListener('click', function() {
     const qty = parseInt(document.getElementById('qty').value);
     const time = parseFloat(document.getElementById('time').value);
@@ -9,7 +11,7 @@ document.getElementById('addButton').addEventListener('click', function() {
         return;
     }
 
-    let row = 0
+    
     let allTime = ((qty * time) / 60) + plusTime / 60
     const allTimeFormatted = allTime.toFixed(2);
     const table = document.getElementById('dataTable');

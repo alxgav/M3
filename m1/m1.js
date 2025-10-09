@@ -65,7 +65,7 @@ async function processFiles() {
         ${results.map(row => `
           <tr>
             <td>${row[0]}</td>
-            <td>${row[1]}</td>
+            <td class="${row[1].includes('Station') ? 'bg-yellow-300 text-black font-bold' : ''}">${row[1]}</td>
             <td>${row[2]}</td>
           </tr>
         `).join("")}
